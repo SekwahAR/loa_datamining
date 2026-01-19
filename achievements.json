@@ -5642,7 +5642,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 1060108,
@@ -5667,7 +5667,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 1060109,
@@ -5692,7 +5692,7 @@
         "obj_npc_id": 82162
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23000000,
@@ -6762,7 +6762,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010020,
@@ -6787,7 +6787,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010030,
@@ -6812,7 +6812,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010040,
@@ -6837,7 +6837,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010050,
@@ -6862,7 +6862,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010060,
@@ -6887,7 +6887,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010070,
@@ -6912,7 +6912,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010080,
@@ -6937,7 +6937,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010090,
@@ -6962,7 +6962,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010100,
@@ -6987,7 +6987,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010110,
@@ -7012,7 +7012,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010115,
@@ -7037,7 +7037,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010120,
@@ -7062,7 +7062,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 23010130,
@@ -7087,7 +7087,7 @@
         "obj_npc_id": 0
       }
     ],
-    "is_new": true
+    "is_new": false
   },
   {
     "id": 1030000,
