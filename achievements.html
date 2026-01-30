@@ -57,15 +57,43 @@ h1 {
 
 /* ---------- Filters ---------- */
 .filters {
-    background: none;
-    border: none;
-    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    justify-self: end;
+}
+
+.filter-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 .filters select {
     background: #333;
     color: #fff;
     border: 1px solid #555;
+}
+
+.progress-tools {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-end;
+}
+
+.progress-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.export-hint {
+    font-size: 0.75rem;
+    color: #777;
+    margin-left: 2px;
 }
 
 
@@ -209,6 +237,29 @@ img {
     vertical-align: middle;
     margin-right: 2px;
 }
+
+.progress-tools button,
+.progress-tools .import-btn {
+    background: #333;
+    color: #ddd;
+    border: 1px solid #555;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.progress-tools button:hover,
+.progress-tools .import-btn:hover {
+    background: #444;
+    color: #fff;
+}
+
+.export-hint {
+    font-size: 0.75rem;
+    color: #777;
+    margin-left: 4px;
+}
+
 </style>
 
 
@@ -218,33 +269,51 @@ img {
     <div>
         <h1>Achievements</h1>
         <div class="last-updated">
-            Game version: 3.15.2.1,424 | Data updated: 2026-01-30 03:41
+            Game version: 3.15.2.1,424 | Data updated: 2026-01-30 04:12
         </div>
     </div>
     <div id="category-summary" class="category-summary"></div>
     <div class="filters">
-      Enabled:
-      <select id="filter-enabled" onchange="filterTable()">
-          <option value="any">Any</option>
-          <option value="yes">Yes</option>
-          <option value="no">No</option>
-      </select>
+        <div class="filter-row">
+            Enabled:
+            <select id="filter-enabled" onchange="filterTable()">
+                <option value="any">Any</option>
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select>
 
-      Hidden:
-      <select id="filter-hidden" onchange="filterTable()">
-          <option value="any">Any</option>
-          <option value="yes">Yes</option>
-          <option value="no">No</option>
-      </select>
+            Hidden:
+            <select id="filter-hidden" onchange="filterTable()">
+                <option value="any">Any</option>
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select>
 
-      Completed:
-      <select id="filter-completed" onchange="filterTable()">
-          <option value="any">Any</option>
-          <option value="yes">Completed</option>
-          <option value="no">Not completed</option>
-      </select>
+            Completed:
+            <select id="filter-completed" onchange="filterTable()">
+                <option value="any">Any</option>
+                <option value="yes">Completed</option>
+                <option value="no">Not completed</option>
+            </select>
+        </div>
+
+        <div class="progress-tools">
+            <div class="progress-buttons">
+                <button onclick="exportProgress()">Export progress</button>
+
+                <label class="import-btn">
+                    Import progress
+                    <input type="file"
+                           accept="application/json"
+                           onchange="importProgress(this.files[0])"
+                           hidden>
+                </label>
+            </div>
+
+            <div id="export-hint" class="export-hint"></div>
+        </div>
     </div>
-
+</div>    
 </div>
 
 <input type="text" id="search-box" placeholder="Search..." onkeyup="filterTable()">
@@ -81597,6 +81666,7 @@ during a particular attack phase</div>
 
 <script>
 const STORAGE_KEY = "loa_completed_achievements";
+const EXPORT_META_KEY = "loa_completed_export_meta";
 
 function loadCompleted() {
     return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -81605,6 +81675,81 @@ function loadCompleted() {
 function saveCompleted(data) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
+
+function saveExportMeta() {
+    localStorage.setItem(
+        EXPORT_META_KEY,
+        JSON.stringify({ lastExport: new Date().toISOString() })
+    );
+}
+
+function loadExportMeta() {
+    try {
+        return JSON.parse(localStorage.getItem(EXPORT_META_KEY)) || {};
+    } catch {
+        return {};
+    }
+}
+
+function updateExportHint() {
+    const hint = document.getElementById("export-hint");
+    if (!hint) return;
+
+    const meta = loadExportMeta();
+    if (!meta.lastExport) {
+        hint.textContent = "No exports yet";
+        return;
+    }
+
+    const dt = new Date(meta.lastExport);
+    hint.textContent = `Last export: ${dt.toLocaleString()}`;
+}
+
+function exportProgress() {
+    const completed = loadCompleted();
+    const payload = {
+        exportedAt: new Date().toISOString(),
+        completed
+    };
+
+    const blob = new Blob(
+        [JSON.stringify(payload, null, 2)],
+        { type: "application/json" }
+    );
+
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "lost_ark_achievement_progress.json";
+    a.click();
+
+    saveExportMeta();
+    updateExportHint();
+}
+
+function importProgress(file) {
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = e => {
+        try {
+            const data = JSON.parse(e.target.result);
+            if (!data.completed || typeof data.completed !== "object") {
+                alert("Invalid progress file");
+                return;
+            }
+
+            saveCompleted(data.completed);
+            applyCompletedState();
+            renderCategorySummary();
+            filterTable();
+        } catch {
+            alert("Failed to import progress file");
+        }
+    };
+
+    reader.readAsText(file);
+}
+
 
 function applyCompletedState() {
     const completed = loadCompleted();
@@ -81657,6 +81802,7 @@ window.addEventListener("load", () => {
     applyCompletedState();
     renderCategorySummary();
     filterTable();
+    updateExportHint();
 });
 
 
