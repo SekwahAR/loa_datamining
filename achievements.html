@@ -55,6 +55,13 @@ h1 {
     font-weight: 600;
 }
 
+.category-item.active {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+
 /* ---------- Filters ---------- */
 .filters {
     display: flex;
@@ -269,7 +276,7 @@ img {
     <div>
         <h1>Achievements</h1>
         <div class="last-updated">
-            Game version: 3.15.2.1,424 | Data updated: 2026-01-30 04:12
+            Game version: 3.15.2.1,424 | Data updated: 2026-01-30 04:54
         </div>
     </div>
     <div id="category-summary" class="category-summary"></div>
@@ -81668,6 +81675,8 @@ during a particular attack phase</div>
 const STORAGE_KEY = "loa_completed_achievements";
 const EXPORT_META_KEY = "loa_completed_export_meta";
 
+let activeCategory = null;
+
 function loadCompleted() {
     return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
 }
@@ -81768,7 +81777,7 @@ function filterTable() {
     const fEnabled = document.getElementById("filter-enabled").value;
     const fHidden = document.getElementById("filter-hidden").value;
     const fCompleted = document.getElementById("filter-completed").value;
-    const fCat = document.getElementById("filter-category")?.value || "any";
+    const fCat = activeCategory;
 
     document
       .querySelectorAll(".ach-table:not(.hidden) tbody tr")
@@ -81780,8 +81789,7 @@ function filterTable() {
         if (fHidden !== "any" && row.dataset.hidden !== fHidden) visible = false;
         if (fCompleted !== "any" && row.dataset.completed !== fCompleted) visible = false;
         if (!row.textContent.toLowerCase().includes(text)) visible = false;
-        if (fCat !== "any" && row.dataset.catMain !== fCat) visible = false;
-
+        if (fCat && row.dataset.catMain !== fCat) visible = false;
 
         row.style.display = visible ? "" : "none";
     });
@@ -81865,6 +81873,7 @@ function computeCategoryStats() {
 }
 
 function clearCategoryFilter() {
+    activeCategory = null;
     document
       .querySelectorAll(".ach-table:not(.hidden) tbody tr")
       .forEach(row => {
@@ -81893,13 +81902,21 @@ function renderCategorySummary() {
     allDiv.className = "category-item";
     allDiv.innerHTML = `<strong>All</strong>: ${completed} / ${total}`;
     allDiv.onclick = () => clearCategoryFilter();
+    if (!activeCategory) {
+        allDiv.classList.add("active");
+    }
     container.appendChild(allDiv);
+
 
     // CATEGORY COUNTERS
     Object.entries(stats).forEach(([catId, data]) => {
         const div = document.createElement("div");
         div.className = "category-item";
         div.dataset.catMain = catId;
+        
+        if (activeCategory === catId) {
+            div.classList.add("active");
+        }
         div.innerHTML = `<strong>${getCategoryName(catId)}</strong>: ${data.completed} / ${data.total}`;
         div.onclick = () => filterByCategory(catId);
         container.appendChild(div);
@@ -81915,11 +81932,18 @@ function getCategoryName(catId) {
 }
 
 function filterByCategory(catMain) {
-    document.querySelectorAll(".ach-table:not(.hidden) tbody tr").forEach(row => {
-        row.style.display =
-            row.dataset.catMain === catMain ? "" : "none";
+    activeCategory = catMain;
+
+    document.querySelectorAll(".category-item").forEach(el => {
+        el.classList.toggle(
+            "active",
+            el.dataset.catMain === catMain
+        );
     });
+
+    filterTable();
 }
+
 
 </script>
 </body>
