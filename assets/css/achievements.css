@@ -1,0 +1,263 @@
+/* ---------- Base ---------- */
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    padding: 16px;
+}
+
+.hidden { display: none; }
+
+/* ---------- Header ---------- */
+.header-grid {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: start;
+    gap: 24px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.last-updated {
+    margin-top: 4px;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+/* ---------- Category summary / counters ---------- */
+.category-summary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    justify-content: flex-end;
+    font-size: 0.9rem;
+}
+
+.category-item {
+    cursor: pointer;
+    color: #ddd;
+}
+
+.category-item:hover {
+    color: #fff;
+}
+
+.category-item strong {
+    font-weight: 600;
+}
+
+.category-item.active {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+
+/* ---------- Filters ---------- */
+.filters {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    justify-self: end;
+}
+
+.filter-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.filters select {
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+}
+
+.progress-tools {
+    margin-top: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-end;
+}
+
+.progress-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.export-hint {
+    font-size: 0.75rem;
+    color: #777;
+    margin-left: 2px;
+}
+
+
+#search-box {
+    margin-bottom: 10px;
+    padding: 6px;
+    font-size: 1rem;
+    width: 300px;
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+}
+
+/* ---------- Tabs ---------- */
+.tabs {
+    margin-bottom: 10px;
+}
+
+.tab-btn {
+    background: #444;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.tab-btn:hover {
+    background: #666;
+}
+
+.tab-btn.active {
+    background: #666;
+    font-weight: 600;
+}
+
+/* ---------- Table ---------- */
+.table-wrap {
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed
+}
+
+th,
+td {
+    border: 1px solid #555;
+    padding: 6px 8px;
+    vertical-align: top;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+}
+
+th {
+    background: #333;
+    text-align: center;
+    vertical-align: middle;
+    height: 2.8em;
+}
+
+tr:nth-child(even) { background: #2a2a2a; }
+tr:nth-child(odd)  { background: #262626; }
+
+.new-achievement {
+    box-shadow: inset 4px 0 0 #4caf50;
+}
+
+tr.completed {
+    opacity: 0.6;
+}
+
+/* ---------- Achievement row ---------- */
+.ach-row {
+    display: flex;
+    align-items: center;
+}
+
+.ach-icon {
+    width: 64px;
+    height: 64px;
+    image-rendering: pixelated;
+    object-fit: contain;
+    margin-right: 10px;
+    border-radius: 4px;
+    background: #2a2a2a;
+    padding: 2px;
+}
+
+.ach-name-text {
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+/* ---------- Description & objectives ---------- */
+.desc-block {
+    max-width: 60ch;
+}
+
+.desc-text {
+    margin-bottom: 6px;
+    color: #ddd;
+}
+
+details.obj-details {
+    margin-top: 6px;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.objective-list {
+    margin: 6px 0 6px 18px;
+    padding: 0;
+}
+
+.objective-list li {
+    margin-bottom: 6px;
+}
+
+.objective-extra {
+    color: #aaa;
+    font-size: 0.9em;
+    margin-left: 1ch;
+}
+
+/* ---------- Misc ---------- */
+.scroll-hint {
+    font-size: 16px;
+    color: #aaa;
+    margin: 4px 0 8px 2px;
+    user-select: none;
+}
+
+img {
+    vertical-align: middle;
+    margin-right: 2px;
+}
+
+.progress-tools button,
+.progress-tools .import-btn {
+    background: #333;
+    color: #ddd;
+    border: 1px solid #555;
+    padding: 4px 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+}
+
+.progress-tools button:hover,
+.progress-tools .import-btn:hover {
+    background: #444;
+    color: #fff;
+}
+
+.export-hint {
+    font-size: 0.75rem;
+    color: #777;
+    margin-left: 4px;
+}

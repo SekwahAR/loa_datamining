@@ -1,0 +1,68 @@
+{
+  "title": "Paradise – Elysian",
+  "generated_at": "2026-02-04 00:58",
+  "seasons": {
+    "Season 2": [
+      {
+        "level": 1,
+        "open_date": null,
+        "paradise_power": 15000,
+        "min_reward_grade": "  "
+      },
+      {
+        "level": 2,
+        "open_date": null,
+        "paradise_power": 29000,
+        "min_reward_grade": "  "
+      },
+      {
+        "level": 3,
+        "open_date": null,
+        "paradise_power": 48000,
+        "min_reward_grade": "<FONT COLOR='#8DF901'>Uncommon</font>"
+      },
+      {
+        "level": 4,
+        "open_date": "2025-11-26",
+        "paradise_power": 77000,
+        "min_reward_grade": "<FONT COLOR='#8DF901'>Uncommon</font>"
+      },
+      {
+        "level": 5,
+        "open_date": "2025-12-3",
+        "paradise_power": 160000,
+        "min_reward_grade": "<FONT COLOR='#00B0FA'>Rare</font>"
+      },
+      {
+        "level": 6,
+        "open_date": "2025-12-10",
+        "paradise_power": 330000,
+        "min_reward_grade": "<FONT COLOR='#00B0FA'>Rare</font>"
+      },
+      {
+        "level": 7,
+        "open_date": "2025-12-17",
+        "paradise_power": 480000,
+        "min_reward_grade": "<FONT COLOR='#CE43FC'>Epic</FONT>"
+      },
+      {
+        "level": 8,
+        "open_date": "2025-12-24",
+        "paradise_power": 920000,
+        "min_reward_grade": "<FONT COLOR='#CE43FC'>Epic</FONT>"
+      },
+      {
+        "level": 9,
+        "open_date": "2025-12-31",
+        "paradise_power": 1300000,
+        "min_reward_grade": "<FONT COLOR='#FE9600'>Legendary</FONT>"
+      },
+      {
+        "level": 10,
+        "open_date": "2026-1-7",
+        "paradise_power": 2300000,
+        "min_reward_grade": "<FONT COLOR='#FE9600'>Legendary</FONT>"
+      }
+    ]
+  }
+}

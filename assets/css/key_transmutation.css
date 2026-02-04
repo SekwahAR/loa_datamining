@@ -1,0 +1,105 @@
+/* ---------- Base ---------- */
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    padding: 16px;
+}
+
+h1 {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.last-updated {
+    margin-top: 4px;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+/* ---------- Key blocks (details / summary) ---------- */
+.key-block {
+    margin: 10px 0;
+}
+
+.key-block summary {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+    list-style: none;
+}
+
+/* Hide default marker */
+.key-block summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Custom dropdown arrow */
+.key-block summary::before {
+    content: "▶";
+    font-size: 10px;
+    color: #aaa;
+    margin-right: 4px;
+    transition: transform 0.15s ease;
+}
+
+/* Rotate arrow when open */
+.key-block[open] summary::before {
+    transform: rotate(90deg);
+}
+
+/* ---------- Icons ---------- */
+.key-icon {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* ---------- Key name ---------- */
+.key-name {
+    display: inline-block;
+    width: 260px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ---------- Results container ---------- */
+.key-results {
+    margin-left: 26px;
+    margin-top: 6px;
+    padding-left: 10px;
+    border-left: 2px solid #444;
+}
+
+/* ---------- Result row ---------- */
+.key-result {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 4px 0;
+    max-width: fit-content;
+}
+
+/* Tree arrow */
+.key-result::before {
+    content: "↳";
+    color: #777;
+    margin-right: 4px;
+    flex-shrink: 0;
+}
+
+/* ---------- Chance column ---------- */
+.key-chance {
+    min-width: 48px;
+    text-align: right;
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+/* ---------- Hover polish ---------- */
+.key-result:hover {
+    background: rgba(255, 255, 255, 0.04);
+}

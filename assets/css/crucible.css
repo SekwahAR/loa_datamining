@@ -1,0 +1,98 @@
+/* ---------- Base ---------- */
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    padding: 16px;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ---------- Header ---------- */
+.header-grid {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: start;
+    gap: 24px;
+    margin-bottom: 12px;
+}
+
+h1 {
+    margin: 0;
+    line-height: 1.2;
+}
+
+.last-updated {
+    margin-top: 4px;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+/* ---------- Tabs ---------- */
+.tabs {
+    margin-bottom: 10px;
+}
+
+.tab-btn {
+    background: #444;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.tab-btn:hover {
+    background: #666;
+}
+
+.tab-btn.active {
+    background: #666;
+    font-weight: 600;
+}
+
+/* ---------- Table ---------- */
+.table-wrap {
+    overflow-x: auto;
+    max-width: 900px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid #555;
+    padding: 6px 8px;
+    vertical-align: top;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+	text-align: center;
+}
+
+th {
+    background: #333;
+    text-align: center;
+    vertical-align: middle;
+    height: 2.8em;
+}
+
+tr:nth-child(even) {
+    background: #2a2a2a;
+}
+
+tr:nth-child(odd) {
+    background: #262626;
+}
+
+.new-achievement {
+    box-shadow: inset 4px 0 0 #4caf50;
+}
+
+tr.completed {
+    opacity: 0.6;
+}
