@@ -1,0 +1,123 @@
+/* ---------- Base ---------- */
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+    padding: 16px;
+}
+
+h1 {
+    margin: 0;
+    line-height: 1.2;
+}
+
+h2 {
+    margin: 16px 0 8px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.last-updated {
+    margin-top: 4px;
+    font-size: 0.85rem;
+    color: #aaa;
+}
+
+/* ---------- Tabs ---------- */
+.tabs {
+    margin: 14px 0 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.tab-btn {
+    background: #444;
+    color: #fff;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.tab-btn:hover {
+    background: #666;
+}
+
+.tab-btn.active {
+    background: #666;
+    font-weight: 600;
+}
+
+/* ---------- Tables ---------- */
+.table-wrap {
+    overflow-x: auto;
+    max-width: 100%;
+    margin-bottom: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: max-content;
+    max-width: 100%;
+}
+
+
+th,
+td {
+    border: 1px solid #555;
+    padding: 6px 8px;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+th {
+    background: #333;
+    text-align: left;
+    font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+    background: #2a2a2a;
+}
+
+tbody tr:nth-child(odd) {
+    background: #262626;
+}
+
+/* ---------- Utility ---------- */
+.stat-tree.inline {
+    display: flex;
+	flex-direction: column;
+	gap: 4px;
+}
+
+.stat-entry {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 10px;
+    padding: 2px 0;
+    align-items: baseline;
+}
+
+.stat-entry.empty {
+    color: #777;
+    font-style: italic;
+}
+
+.base-stat {
+    color: #aaa;
+}
+
+.stat-name {
+    color: #fff;
+}
+
+.stat-coef {
+    color: #ccc;
+}
+
+.hidden {
+    display: none;
+}

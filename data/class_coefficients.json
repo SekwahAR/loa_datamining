@@ -1,0 +1,1669 @@
+{
+  "title": "Stat Coefficients",
+  "generated_at": "2026-02-08 23:20",
+  "classes": {
+    "101": {
+      "id": 101,
+      "name": "Warrior (Male)",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.0,
+      "base_class": 101
+    },
+    "201": {
+      "id": 201,
+      "name": "Mage",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 1.9,
+      "def_coef": 1.0,
+      "base_class": 201
+    },
+    "301": {
+      "id": 301,
+      "name": "Martial Artist (Female)",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.0,
+      "base_class": 301
+    },
+    "401": {
+      "id": 401,
+      "name": "Assassin",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 1.0,
+      "base_class": 401
+    },
+    "501": {
+      "id": 501,
+      "name": "Gunner (Male)",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 1.0,
+      "base_class": 501
+    },
+    "601": {
+      "id": 601,
+      "name": "Specialist",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.0,
+      "def_coef": 1.0,
+      "base_class": 601
+    },
+    "102": {
+      "id": 102,
+      "name": "Berserker",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.1,
+      "base_class": 101
+    },
+    "103": {
+      "id": 103,
+      "name": "Destroyer",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.3,
+      "def_coef": 1.15,
+      "base_class": 101
+    },
+    "104": {
+      "id": 104,
+      "name": "Gunlancer",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.5,
+      "def_coef": 1.2,
+      "base_class": 101
+    },
+    "105": {
+      "id": 105,
+      "name": "Paladin",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.1,
+      "base_class": 101
+    },
+    "111": {
+      "id": 111,
+      "name": "Warrior (Female)",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.0,
+      "base_class": 111
+    },
+    "112": {
+      "id": 112,
+      "name": "Slayer",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.1,
+      "base_class": 111
+    },
+    "202": {
+      "id": 202,
+      "name": "Arcanist",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.1,
+      "def_coef": 0.95,
+      "base_class": 201
+    },
+    "203": {
+      "id": 203,
+      "name": "Summoner",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.1,
+      "def_coef": 0.95,
+      "base_class": 201
+    },
+    "204": {
+      "id": 204,
+      "name": "Bard",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.9,
+      "base_class": 201
+    },
+    "205": {
+      "id": 205,
+      "name": "Sorceress",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.1,
+      "def_coef": 0.95,
+      "base_class": 201
+    },
+    "302": {
+      "id": 302,
+      "name": "Wardancer",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.05,
+      "base_class": 301
+    },
+    "303": {
+      "id": 303,
+      "name": "Scrapper",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.3,
+      "def_coef": 1.1,
+      "base_class": 301
+    },
+    "304": {
+      "id": 304,
+      "name": "Soulfist",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.05,
+      "base_class": 301
+    },
+    "305": {
+      "id": 305,
+      "name": "Glaivier",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.05,
+      "base_class": 301
+    },
+    "402": {
+      "id": 402,
+      "name": "Deathblade",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.0,
+      "base_class": 401
+    },
+    "403": {
+      "id": 403,
+      "name": "Shadowhunter",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.0,
+      "base_class": 401
+    },
+    "404": {
+      "id": 404,
+      "name": "Reaper",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.95,
+      "base_class": 401
+    },
+    "405": {
+      "id": 405,
+      "name": "Souleater",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.0,
+      "base_class": 401
+    },
+    "502": {
+      "id": 502,
+      "name": "Sharpshooter",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.1,
+      "def_coef": 0.95,
+      "base_class": 501
+    },
+    "503": {
+      "id": 503,
+      "name": "Deadeye",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.95,
+      "base_class": 501
+    },
+    "504": {
+      "id": 504,
+      "name": "Artillerist",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.0,
+      "base_class": 501
+    },
+    "602": {
+      "id": 602,
+      "name": "Artist",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.9,
+      "base_class": 601
+    },
+    "603": {
+      "id": 603,
+      "name": "Aeromancer",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.0,
+      "base_class": 601
+    },
+    "604": {
+      "id": 604,
+      "name": "Wildsoul",
+      "main_stat": "Intelligence",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.0,
+      "base_class": 601
+    },
+    "505": {
+      "id": 505,
+      "name": "Machinist",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.95,
+      "base_class": 501
+    },
+    "511": {
+      "id": 511,
+      "name": "Gunner (Female)",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 1.0,
+      "base_class": 511
+    },
+    "512": {
+      "id": 512,
+      "name": "Gunslinger",
+      "main_stat": "Dexterity",
+      "max_hp_coef": 2.0,
+      "def_coef": 0.95,
+      "base_class": 511
+    },
+    "311": {
+      "id": 311,
+      "name": "Martial Artist (Male)",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.0,
+      "base_class": 311
+    },
+    "312": {
+      "id": 312,
+      "name": "Striker",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.05,
+      "base_class": 311
+    },
+    "313": {
+      "id": 313,
+      "name": "Breaker",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.3,
+      "def_coef": 1.1,
+      "base_class": 311
+    },
+    "113": {
+      "id": 113,
+      "name": "Valkyrie",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.1,
+      "def_coef": 1.1,
+      "base_class": 111
+    },
+    "701": {
+      "id": 701,
+      "name": "Guardianknight",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.1,
+      "base_class": 701
+    },
+    "702": {
+      "id": 702,
+      "name": "Guardianknight",
+      "main_stat": "Strength",
+      "max_hp_coef": 2.2,
+      "def_coef": 1.1,
+      "base_class": 701
+    }
+  },
+  "base_classes": {
+    "101": "Warrior (Male)",
+    "201": "Mage",
+    "301": "Martial Artist (Female)",
+    "401": "Assassin",
+    "501": "Gunner (Male)",
+    "601": "Specialist",
+    "111": "Warrior (Female)",
+    "511": "Gunner (Female)",
+    "311": "Martial Artist (Male)",
+    "701": "Guardianknight"
+  },
+  "generic": [
+    {
+      "base_stat": "Crit",
+      "stat": "Crit Rate",
+      "coef": 1.0
+    },
+    {
+      "base_stat": "Specialization",
+      "stat": "Awakening Skill Damage",
+      "coef": 0.1528
+    },
+    {
+      "base_stat": "Swiftness",
+      "stat": "Skill Cooldown Decrease",
+      "coef": 1.25
+    },
+    {
+      "base_stat": "Swiftness",
+      "stat": "Move Speed",
+      "coef": 1.0
+    },
+    {
+      "base_stat": "Swiftness",
+      "stat": "Atk. Speed",
+      "coef": 1.0
+    },
+    {
+      "base_stat": "Endurance",
+      "stat": "Phy. Defense",
+      "coef": 0.8
+    },
+    {
+      "base_stat": "Endurance",
+      "stat": "Mag. Defense",
+      "coef": 0.8
+    },
+    {
+      "base_stat": "Endurance",
+      "stat": "Shield",
+      "coef": 0.25
+    },
+    {
+      "base_stat": "Endurance",
+      "stat": "Healing",
+      "coef": 0.35
+    },
+    {
+      "base_stat": "Expertise",
+      "stat": "Status Ailment Time Bonus",
+      "coef": 1.0
+    },
+    {
+      "base_stat": "Expertise",
+      "stat": "Status Ailment Time Reduction",
+      "coef": 0.8333
+    },
+    {
+      "base_stat": "Expertise",
+      "stat": "Stagger Damage",
+      "coef": 0.6666
+    }
+  ],
+  "per_class_stats": {
+    "102": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Fury Meter Gain",
+        "coef": 0.6667
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Burst Mode Amplification",
+        "coef": 0.26
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Bloody Rush Damage",
+        "coef": 1.2
+      }
+    ],
+    "112": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Fury Meter Gain",
+        "coef": 0.4
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Burst Mode Skill Damage",
+        "coef": 0.11
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Bloodlust Damage Increase",
+        "coef": 1.2
+      }
+    ],
+    "104": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Shield Meter Recovery Amount",
+        "coef": 0.7
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Battlefield Shield Skill Damage and Amount Increase",
+        "coef": 0.5
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increase Normal Skill Damage",
+        "coef": 1.1
+      }
+    ],
+    "103": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Core Damage Increase",
+        "coef": 0.535
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Gravity Meter Gain",
+        "coef": 0.3
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Damage during Hypergravity",
+        "coef": 0.5
+      }
+    ],
+    "202": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Ruin Skill Damage",
+        "coef": 0.35
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Card Meter Obtained",
+        "coef": 0.25
+      }
+    ],
+    "203": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Ancient Elemental Skill Damage",
+        "coef": 0.85
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Ancient Energy Gain",
+        "coef": 0.6
+      }
+    ],
+    "205": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Elemental Damage Efficiency",
+        "coef": 2.0
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "MP Meter Gain",
+        "coef": 0.25
+      }
+    ],
+    "204": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Serenade of Salvation Recovery",
+        "coef": 0.2
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Serenade of Courage Effectiveness",
+        "coef": 0.35
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Serenade Meter Gain",
+        "coef": 0.28
+      }
+    ],
+    "302": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Esoteric Skill Damage",
+        "coef": 0.27
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Esoteric Meter Gain",
+        "coef": 0.7
+      }
+    ],
+    "312": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Esoteric Skill Damage",
+        "coef": 0.225
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Esoteric Meter Gain",
+        "coef": 0.7
+      }
+    ],
+    "303": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Shock Skill Damage",
+        "coef": 0.36
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Stamina Recovery",
+        "coef": 0.25
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Tenacious Power Gain",
+        "coef": 0.4
+      }
+    ],
+    "304": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Hype Effectiveness",
+        "coef": 0.15
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Spirit Recovery Time Reduction",
+        "coef": 0.3
+      }
+    ],
+    "305": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Dual Meter Recovery upon Hits",
+        "coef": 0.35
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Focus Skill Damage +",
+        "coef": 0.42
+      }
+    ],
+    "502": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Hawk Meter Natural Recovery Speed",
+        "coef": 0.3
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Silverhawk Skill Damage",
+        "coef": 0.75
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Summon Silverhawk Skill Damage",
+        "coef": 0.085
+      }
+    ],
+    "504": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Barrage Skill Damage",
+        "coef": 0.5
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Barrage Meter Gain Increase",
+        "coef": 0.1
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Firepower Buff Effectiveness",
+        "coef": 0.52
+      }
+    ],
+    "503": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Handgun Skill Crit Damage",
+        "coef": 0.75
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Shotgun Skill Damage",
+        "coef": 0.25
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Rifle Skill Piercing",
+        "coef": 0.25
+      }
+    ],
+    "512": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Handgun Skill Crit Damage",
+        "coef": 0.75
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Shotgun Skill Piercing",
+        "coef": 0.25
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Rifle Skill Damage Dealt",
+        "coef": 0.25
+      }
+    ],
+    "402": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increase Surge Skill Damage",
+        "coef": 0.8
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Art Meter Recovery upon Hits",
+        "coef": 0.4
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Cooldown Time During Art Activation",
+        "coef": 0.2
+      }
+    ],
+    "403": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Demon Skill Damage",
+        "coef": 0.715
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Shadowburst Meter Recovery upon Hits",
+        "coef": 0.5
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increase Demonize Duration",
+        "coef": 0.3
+      }
+    ],
+    "105": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Holy Aura Effect",
+        "coef": 0.63
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Piety Meter Gain",
+        "coef": 0.25
+      }
+    ],
+    "505": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increases Core Energy gain on hit",
+        "coef": 0.5
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Sync Skill Damage",
+        "coef": 0.64
+      }
+    ],
+    "404": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Swoop Skill Damage",
+        "coef": 0.31
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Persona Meter gain on hit +",
+        "coef": 0.3
+      }
+    ],
+    "405": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Deathlord Skill Damage while in Deathlord Mode",
+        "coef": 0.564
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Possession Meter Recovery upon hit",
+        "coef": 0.5
+      }
+    ],
+    "602": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Moonfall Efficiency",
+        "coef": 0.42
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Sunrise Recovery",
+        "coef": 0.24
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Harmony Meter Gain",
+        "coef": 0.25
+      }
+    ],
+    "603": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Weather Skill Damage",
+        "coef": 0.53
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Raindrop Meter Recovery upon hit.",
+        "coef": 0.25
+      }
+    ],
+    "313": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Shock Skill Damage when in Brawl King Stance",
+        "coef": 0.645
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Stamina Skill Damage when in Brawl King Stance",
+        "coef": 0.4
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Tenacious Power Gain",
+        "coef": 0.28
+      }
+    ],
+    "604": [
+      {
+        "base_stat": "Specialization",
+        "stat": "On hit, increase Phantom Beast Energy gained",
+        "coef": 0.3
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "On hit, increase Bear/Fox Energy gained",
+        "coef": 0.65
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Shapeshift Skill Damage",
+        "coef": 0.332
+      }
+    ],
+    "113": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Piety Meter Gain upon Hits",
+        "coef": 0.2
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Release Light Skill Effectiveness Increase",
+        "coef": 0.6
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Identity Value 3",
+        "coef": 0.0
+      }
+    ],
+    "702": [
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Embereth's Orb Meter Recovery on Hit",
+        "coef": 0.2
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Manifestation and Incarnation Skill Damage",
+        "coef": 0.25
+      },
+      {
+        "base_stat": "Specialization",
+        "stat": "Increased Incarnation Skill Damage per Embereth's Energy Consumed",
+        "coef": 0.06
+      }
+    ]
+  },
+  "combat_stats": [
+    {
+      "level": 70,
+      "req_exp": 105866400,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 69,
+      "req_exp": 103790588,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 68,
+      "req_exp": 101755478,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 67,
+      "req_exp": 99760273,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 66,
+      "req_exp": 97804189,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 65,
+      "req_exp": 95886460,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 64,
+      "req_exp": 87169509,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 63,
+      "req_exp": 85460303,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 62,
+      "req_exp": 83784611,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 61,
+      "req_exp": 82141775,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 60,
+      "req_exp": 80531152,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 59,
+      "req_exp": 78952110,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 58,
+      "req_exp": 76208601,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 57,
+      "req_exp": 73631498,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 56,
+      "req_exp": 71695714,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 55,
+      "req_exp": 70419276,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 54,
+      "req_exp": 46946184,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 53,
+      "req_exp": 45578819,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 52,
+      "req_exp": 44685117,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 51,
+      "req_exp": 43808938,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 50,
+      "req_exp": 43050003,
+      "stats": {
+        "Crit": 0.2794,
+        "Specialization": 0.0699,
+        "Domination": 0.163,
+        "Swiftness": 0.5821,
+        "Endurance": 0.0978,
+        "Expertise": 0.2329
+      }
+    },
+    {
+      "level": 49,
+      "req_exp": 1014000,
+      "stats": {
+        "Crit": 0.2763,
+        "Specialization": 0.0691,
+        "Domination": 0.1612,
+        "Swiftness": 0.5755,
+        "Endurance": 0.0967,
+        "Expertise": 0.2302
+      }
+    },
+    {
+      "level": 48,
+      "req_exp": 945000,
+      "stats": {
+        "Crit": 0.2714,
+        "Specialization": 0.0679,
+        "Domination": 0.1583,
+        "Swiftness": 0.5655,
+        "Endurance": 0.095,
+        "Expertise": 0.2262
+      }
+    },
+    {
+      "level": 47,
+      "req_exp": 924400,
+      "stats": {
+        "Crit": 0.2675,
+        "Specialization": 0.0669,
+        "Domination": 0.156,
+        "Swiftness": 0.5572,
+        "Endurance": 0.0936,
+        "Expertise": 0.2229
+      }
+    },
+    {
+      "level": 46,
+      "req_exp": 859900,
+      "stats": {
+        "Crit": 0.2633,
+        "Specialization": 0.0658,
+        "Domination": 0.1536,
+        "Swiftness": 0.5485,
+        "Endurance": 0.0921,
+        "Expertise": 0.2194
+      }
+    },
+    {
+      "level": 45,
+      "req_exp": 799500,
+      "stats": {
+        "Crit": 0.2591,
+        "Specialization": 0.0648,
+        "Domination": 0.1511,
+        "Swiftness": 0.5398,
+        "Endurance": 0.0907,
+        "Expertise": 0.2159
+      }
+    },
+    {
+      "level": 44,
+      "req_exp": 743100,
+      "stats": {
+        "Crit": 0.2547,
+        "Specialization": 0.0637,
+        "Domination": 0.1486,
+        "Swiftness": 0.5306,
+        "Endurance": 0.0891,
+        "Expertise": 0.2123
+      }
+    },
+    {
+      "level": 43,
+      "req_exp": 690000,
+      "stats": {
+        "Crit": 0.2509,
+        "Specialization": 0.0627,
+        "Domination": 0.1464,
+        "Swiftness": 0.5227,
+        "Endurance": 0.0878,
+        "Expertise": 0.2091
+      }
+    },
+    {
+      "level": 42,
+      "req_exp": 640500,
+      "stats": {
+        "Crit": 0.2457,
+        "Specialization": 0.0614,
+        "Domination": 0.1434,
+        "Swiftness": 0.512,
+        "Endurance": 0.086,
+        "Expertise": 0.2048
+      }
+    },
+    {
+      "level": 41,
+      "req_exp": 594000,
+      "stats": {
+        "Crit": 0.2417,
+        "Specialization": 0.0604,
+        "Domination": 0.141,
+        "Swiftness": 0.5036,
+        "Endurance": 0.0846,
+        "Expertise": 0.2014
+      }
+    },
+    {
+      "level": 40,
+      "req_exp": 550400,
+      "stats": {
+        "Crit": 0.2378,
+        "Specialization": 0.0594,
+        "Domination": 0.1387,
+        "Swiftness": 0.4953,
+        "Endurance": 0.0832,
+        "Expertise": 0.1981
+      }
+    },
+    {
+      "level": 39,
+      "req_exp": 509600,
+      "stats": {
+        "Crit": 0.233,
+        "Specialization": 0.0583,
+        "Domination": 0.1359,
+        "Swiftness": 0.4854,
+        "Endurance": 0.0816,
+        "Expertise": 0.1942
+      }
+    },
+    {
+      "level": 38,
+      "req_exp": 471300,
+      "stats": {
+        "Crit": 0.2288,
+        "Specialization": 0.0572,
+        "Domination": 0.1335,
+        "Swiftness": 0.4768,
+        "Endurance": 0.0801,
+        "Expertise": 0.1907
+      }
+    },
+    {
+      "level": 37,
+      "req_exp": 435500,
+      "stats": {
+        "Crit": 0.2247,
+        "Specialization": 0.0562,
+        "Domination": 0.1311,
+        "Swiftness": 0.4681,
+        "Endurance": 0.0786,
+        "Expertise": 0.1873
+      }
+    },
+    {
+      "level": 36,
+      "req_exp": 402000,
+      "stats": {
+        "Crit": 0.2209,
+        "Specialization": 0.0552,
+        "Domination": 0.1288,
+        "Swiftness": 0.4602,
+        "Endurance": 0.0773,
+        "Expertise": 0.1841
+      }
+    },
+    {
+      "level": 35,
+      "req_exp": 370500,
+      "stats": {
+        "Crit": 0.2166,
+        "Specialization": 0.0541,
+        "Domination": 0.1263,
+        "Swiftness": 0.4512,
+        "Endurance": 0.0758,
+        "Expertise": 0.1805
+      }
+    },
+    {
+      "level": 34,
+      "req_exp": 369600,
+      "stats": {
+        "Crit": 0.2125,
+        "Specialization": 0.0531,
+        "Domination": 0.124,
+        "Swiftness": 0.4428,
+        "Endurance": 0.0744,
+        "Expertise": 0.1771
+      }
+    },
+    {
+      "level": 33,
+      "req_exp": 339400,
+      "stats": {
+        "Crit": 0.2093,
+        "Specialization": 0.0523,
+        "Domination": 0.1221,
+        "Swiftness": 0.4361,
+        "Endurance": 0.0733,
+        "Expertise": 0.1744
+      }
+    },
+    {
+      "level": 32,
+      "req_exp": 311100,
+      "stats": {
+        "Crit": 0.2046,
+        "Specialization": 0.0511,
+        "Domination": 0.1193,
+        "Swiftness": 0.4262,
+        "Endurance": 0.0716,
+        "Expertise": 0.1705
+      }
+    },
+    {
+      "level": 31,
+      "req_exp": 284600,
+      "stats": {
+        "Crit": 0.2015,
+        "Specialization": 0.0504,
+        "Domination": 0.1175,
+        "Swiftness": 0.4197,
+        "Endurance": 0.0705,
+        "Expertise": 0.1679
+      }
+    },
+    {
+      "level": 30,
+      "req_exp": 260100,
+      "stats": {
+        "Crit": 0.1976,
+        "Specialization": 0.0494,
+        "Domination": 0.1152,
+        "Swiftness": 0.4116,
+        "Endurance": 0.0691,
+        "Expertise": 0.1646
+      }
+    },
+    {
+      "level": 29,
+      "req_exp": 255200,
+      "stats": {
+        "Crit": 0.1553,
+        "Specialization": 0.0388,
+        "Domination": 0.0906,
+        "Swiftness": 0.3236,
+        "Endurance": 0.0544,
+        "Expertise": 0.1294
+      }
+    },
+    {
+      "level": 28,
+      "req_exp": 232000,
+      "stats": {
+        "Crit": 0.1525,
+        "Specialization": 0.0381,
+        "Domination": 0.0889,
+        "Swiftness": 0.3177,
+        "Endurance": 0.0534,
+        "Expertise": 0.1271
+      }
+    },
+    {
+      "level": 27,
+      "req_exp": 210300,
+      "stats": {
+        "Crit": 0.1492,
+        "Specialization": 0.0373,
+        "Domination": 0.087,
+        "Swiftness": 0.3107,
+        "Endurance": 0.0522,
+        "Expertise": 0.1243
+      }
+    },
+    {
+      "level": 26,
+      "req_exp": 190300,
+      "stats": {
+        "Crit": 0.1466,
+        "Specialization": 0.0367,
+        "Domination": 0.0855,
+        "Swiftness": 0.3054,
+        "Endurance": 0.0513,
+        "Expertise": 0.1222
+      }
+    },
+    {
+      "level": 25,
+      "req_exp": 171800,
+      "stats": {
+        "Crit": 0.1438,
+        "Specialization": 0.036,
+        "Domination": 0.0839,
+        "Swiftness": 0.2997,
+        "Endurance": 0.0503,
+        "Expertise": 0.1199
+      }
+    },
+    {
+      "level": 24,
+      "req_exp": 154600,
+      "stats": {
+        "Crit": 0.1411,
+        "Specialization": 0.0353,
+        "Domination": 0.0823,
+        "Swiftness": 0.2939,
+        "Endurance": 0.0494,
+        "Expertise": 0.1176
+      }
+    },
+    {
+      "level": 23,
+      "req_exp": 138600,
+      "stats": {
+        "Crit": 0.1381,
+        "Specialization": 0.0345,
+        "Domination": 0.0806,
+        "Swiftness": 0.2878,
+        "Endurance": 0.0483,
+        "Expertise": 0.1151
+      }
+    },
+    {
+      "level": 22,
+      "req_exp": 123900,
+      "stats": {
+        "Crit": 0.1179,
+        "Specialization": 0.0295,
+        "Domination": 0.0688,
+        "Swiftness": 0.2456,
+        "Endurance": 0.0413,
+        "Expertise": 0.0983
+      }
+    },
+    {
+      "level": 21,
+      "req_exp": 110400,
+      "stats": {
+        "Crit": 0.0883,
+        "Specialization": 0.0221,
+        "Domination": 0.0515,
+        "Swiftness": 0.184,
+        "Endurance": 0.0309,
+        "Expertise": 0.0736
+      }
+    },
+    {
+      "level": 20,
+      "req_exp": 98000,
+      "stats": {
+        "Crit": 0.0696,
+        "Specialization": 0.0174,
+        "Domination": 0.0406,
+        "Swiftness": 0.1449,
+        "Endurance": 0.0243,
+        "Expertise": 0.058
+      }
+    },
+    {
+      "level": 19,
+      "req_exp": 86500,
+      "stats": {
+        "Crit": 0.06375,
+        "Specialization": 0.0159,
+        "Domination": 0.0372,
+        "Swiftness": 0.13275,
+        "Endurance": 0.02235,
+        "Expertise": 0.0531
+      }
+    },
+    {
+      "level": 18,
+      "req_exp": 75900,
+      "stats": {
+        "Crit": 0.06225,
+        "Specialization": 0.0156,
+        "Domination": 0.0363,
+        "Swiftness": 0.1299,
+        "Endurance": 0.02175,
+        "Expertise": 0.0519
+      }
+    },
+    {
+      "level": 17,
+      "req_exp": 66300,
+      "stats": {
+        "Crit": 0.05887,
+        "Specialization": 0.01479,
+        "Domination": 0.034365,
+        "Swiftness": 0.12267,
+        "Endurance": 0.02059,
+        "Expertise": 0.04901
+      }
+    },
+    {
+      "level": 16,
+      "req_exp": 57600,
+      "stats": {
+        "Crit": 0.05586,
+        "Specialization": 0.014,
+        "Domination": 0.03262,
+        "Swiftness": 0.11648,
+        "Endurance": 0.0196,
+        "Expertise": 0.04662
+      }
+    },
+    {
+      "level": 15,
+      "req_exp": 49700,
+      "stats": {
+        "Crit": 0.0507,
+        "Specialization": 0.01261,
+        "Domination": 0.02951,
+        "Swiftness": 0.10556,
+        "Endurance": 0.01768,
+        "Expertise": 0.04225
+      }
+    },
+    {
+      "level": 14,
+      "req_exp": 42600,
+      "stats": {
+        "Crit": 0.04596,
+        "Specialization": 0.01152,
+        "Domination": 0.02688,
+        "Swiftness": 0.09576,
+        "Endurance": 0.01608,
+        "Expertise": 0.03828
+      }
+    },
+    {
+      "level": 13,
+      "req_exp": 36200,
+      "stats": {
+        "Crit": 0.04278,
+        "Specialization": 0.010695,
+        "Domination": 0.024955,
+        "Swiftness": 0.089125,
+        "Endurance": 0.01495,
+        "Expertise": 0.03565
+      }
+    },
+    {
+      "level": 12,
+      "req_exp": 30400,
+      "stats": {
+        "Crit": 0.041975,
+        "Specialization": 0.010465,
+        "Domination": 0.024495,
+        "Swiftness": 0.087515,
+        "Endurance": 0.01472,
+        "Expertise": 0.03496
+      }
+    },
+    {
+      "level": 11,
+      "req_exp": 25200,
+      "stats": {
+        "Crit": 0.03949,
+        "Specialization": 0.0099,
+        "Domination": 0.02299,
+        "Swiftness": 0.08217,
+        "Endurance": 0.01386,
+        "Expertise": 0.03289
+      }
+    },
+    {
+      "level": 10,
+      "req_exp": 20700,
+      "stats": {
+        "Crit": 0.0347,
+        "Specialization": 0.0087,
+        "Domination": 0.0203,
+        "Swiftness": 0.0724,
+        "Endurance": 0.0122,
+        "Expertise": 0.029
+      }
+    },
+    {
+      "level": 9,
+      "req_exp": 9100,
+      "stats": {
+        "Crit": 0.0341,
+        "Specialization": 0.0085,
+        "Domination": 0.0199,
+        "Swiftness": 0.071,
+        "Endurance": 0.0119,
+        "Expertise": 0.0284
+      }
+    },
+    {
+      "level": 8,
+      "req_exp": 7400,
+      "stats": {
+        "Crit": 0.0332,
+        "Specialization": 0.0083,
+        "Domination": 0.0194,
+        "Swiftness": 0.0692,
+        "Endurance": 0.0116,
+        "Expertise": 0.0277
+      }
+    },
+    {
+      "level": 7,
+      "req_exp": 5900,
+      "stats": {
+        "Crit": 0.0324,
+        "Specialization": 0.0081,
+        "Domination": 0.0189,
+        "Swiftness": 0.0675,
+        "Endurance": 0.0113,
+        "Expertise": 0.027
+      }
+    },
+    {
+      "level": 6,
+      "req_exp": 4600,
+      "stats": {
+        "Crit": 0.0315,
+        "Specialization": 0.0079,
+        "Domination": 0.0184,
+        "Swiftness": 0.0657,
+        "Endurance": 0.011,
+        "Expertise": 0.0263
+      }
+    },
+    {
+      "level": 5,
+      "req_exp": 3500,
+      "stats": {
+        "Crit": 0.0309,
+        "Specialization": 0.0077,
+        "Domination": 0.018,
+        "Swiftness": 0.0644,
+        "Endurance": 0.0108,
+        "Expertise": 0.0258
+      }
+    },
+    {
+      "level": 4,
+      "req_exp": 2600,
+      "stats": {
+        "Crit": 0.0301,
+        "Specialization": 0.0075,
+        "Domination": 0.0175,
+        "Swiftness": 0.0627,
+        "Endurance": 0.0105,
+        "Expertise": 0.0251
+      }
+    },
+    {
+      "level": 3,
+      "req_exp": 1900,
+      "stats": {
+        "Crit": 0.0292,
+        "Specialization": 0.0073,
+        "Domination": 0.0171,
+        "Swiftness": 0.0609,
+        "Endurance": 0.0102,
+        "Expertise": 0.0244
+      }
+    },
+    {
+      "level": 2,
+      "req_exp": 1400,
+      "stats": {
+        "Crit": 0.0284,
+        "Specialization": 0.0071,
+        "Domination": 0.0166,
+        "Swiftness": 0.0592,
+        "Endurance": 0.01,
+        "Expertise": 0.0237
+      }
+    },
+    {
+      "level": 1,
+      "req_exp": 600,
+      "stats": {
+        "Crit": 0.0278,
+        "Specialization": 0.007,
+        "Domination": 0.0162,
+        "Swiftness": 0.058,
+        "Endurance": 0.0097,
+        "Expertise": 0.0232
+      }
+    }
+  ]
+}
