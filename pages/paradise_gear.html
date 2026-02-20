@@ -3,24 +3,29 @@
 <head>
 <meta charset="utf-8">
 <title>Paradise Gear Effects</title>
-
 <link rel="stylesheet" href="../assets/css/paradise_gear.css">
-
+<script src="../assets/js/paradise_gear.js" defer></script>
 </head>
 <body>
 
 <h1>Paradise Gear Effects</h1>
 
-<table>
-<thead>
-<tr>
-<th>PrimaryKey</th>
-<th>SkillId</th>
-<th>Effect</th>
-</tr>
-</thead>
-<tbody>
-<tr><td>10001</td><td>70001</td><td>
+<div class="tabs">
+<button class="tab-btn active" onclick="showSeason('Season 1')">Season 1</button><button class="tab-btn " onclick="showSeason('Season 2')">Season 2</button>
+</div>
+
+
+        <div class="season-table active" id="Season 1">
+            <table>
+                <thead>
+                    <tr>
+                        <th>PrimaryKey</th>
+                        <th>SkillId</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>10001</td><td>70001</td><td>
         <div class="orb-name"><FONT COLOR='#91FE02'>[Wave of Providence I]</FONT></div>
         <div class="orb-desc">Create a water barrier that draws in foes while recovering HP.</div>
         <div class="orb-detail">[Nature] Summons a barrier of waves to attack.
@@ -1250,7 +1255,22 @@ After a short delay, 18 cards rain down like a storm, dealing damage.
 Shade<FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Removes target's Brilliance and Torch effects
 Target's Dark Resistance -<FONT COLOR='#5dbe64'>4/6/10/15/20%</FONT>, Elemental Resistance +<FONT COLOR='#ff9999'>1/1.5/2/3.75/5%</Font>
 <br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Projection] and [Arcane] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>
-        </td></tr><tr><td>20001</td><td>70021</td><td>
+        </td></tr>
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="season-table " id="Season 2">
+            <table>
+                <thead>
+                    <tr>
+                        <th>PrimaryKey</th>
+                        <th>SkillId</th>
+                        <th>Effect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>20001</td><td>70021</td><td>
         <div class="orb-name"><FONT COLOR='#91FE02'>[Tide Origin I]</FONT></div>
         <div class="orb-desc">[Nature] Gathers the powerful energy of the tides to push foes back.</div>
         <div class="orb-detail">[Nature] Gathers the powerful energy of tides to push foes back.
@@ -2521,8 +2541,10 @@ Shade<FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Removes target's Brilliance and To
 Target's Dark Resistance -<FONT COLOR='#5dbe64'>20/24/30/36/40%</FONT>, Elemental Resistance +<FONT COLOR='#ff9999'>10/12/15/18/20%</Font>
 <br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Projection] and [Arcane] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>
         </td></tr>
-</tbody>
-</table>
+                </tbody>
+            </table>
+        </div>
+        
 
 </body>
 </html>

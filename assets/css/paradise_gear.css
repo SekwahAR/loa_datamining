@@ -40,3 +40,28 @@ th {
     vertical-align:middle;
     margin-right:4px;
 }
+
+.tabs {
+    margin-bottom: 16px;
+}
+
+.tab-btn {
+    background: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+
+.tab-btn.active {
+    background: #555;
+}
+
+.season-table {
+    display: none;
+}
+
+.season-table.active {
+    display: block;
+}
