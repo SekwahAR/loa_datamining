@@ -8,26 +8,38 @@ body {
 table {
     border-collapse:collapse;
     width:100%;
+	table-layout:fixed;
 }
 
 td, th {
     border:1px solid #555;
     padding:10px;
     vertical-align:top;
+	word-wrap:break-word;
 }
 
 th {
     background:#333;
 }
 
+th:nth-child(1),
+td:nth-child(1) {
+    width:120px;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width:120px;
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+    width:auto;
+}
+
 .orb-name {
     font-weight:600;
     margin-bottom:4px;
-}
-
-.orb-desc {
-    opacity:0.85;
-    margin-bottom:6px;
 }
 
 .orb-detail {
