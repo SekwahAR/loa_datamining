@@ -1,7 +1,7 @@
 {
-  "game_version": "3.16.0.1,1446",
-  "data_built_at": "2026-02-05 17:08",
-  "achievement_count": 2176,
+  "game_version": "3.17.0.1,1466",
+  "data_built_at": "2026-03-11 15:30",
+  "achievement_count": 2187,
   "achievements": [
     {
       "id": 10014010,
@@ -14,7 +14,7 @@
       "enabled": true,
       "hidden": false,
       "rarity": "uncommon",
-      "name": "Arkesia's Journey Ⅰ",
+      "name": "Arkesia's Journey I",
       "description": "Reach 1,000 accumulated login days",
       "icon_prefix": "achieve_09",
       "icon_index": 57,
@@ -1846,7 +1846,7 @@
       "enabled": true,
       "hidden": false,
       "rarity": "common",
-      "name": "Facing the Ends of the Abyss",
+      "name": "Facing the End of the Abyss",
       "description": "Complete Lost Ark Part 1 Journey",
       "icon_prefix": "achieve_17",
       "icon_index": 6,
@@ -19217,6 +19217,285 @@
       "is_new": false
     },
     {
+      "id": 4050026,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Fierce Goodbye",
+      "description": "Defeat Sevek Atun.",
+      "icon_prefix": "achieve_08",
+      "icon_index": 48,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Sevek Atun.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 300990,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070149,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Winter is Coming",
+      "description": "Receive help from the Northern Alliance at the Xavier Valley Fortress.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 17,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Receive help from the Northern Alliance at the Xavier Valley Fortress.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 1905401
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070150,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "It Was Summer",
+      "description": "Get help from the Punika reinforcements at the Gondar Watchtower.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 18,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Get help from the Punika reinforcements at the Gondar Watchtower.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 1905403
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070151,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Comradeship in the Xavier Valley",
+      "description": "Select Xavier Valley and proceed to the Highland of the Final Battle.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 20,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Achieved if you selected Xavier Valley when choosing a base to support your progression through Highland of the Final Battle.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070152,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Comradeship in the Gondar Watchtower",
+      "description": "Select Gondar Watchtower and proceed to the Highland of the Final Battle.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 21,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Achieved if you selected Gondar Watchtower when choosing a base to support your progression through Highland of the Final Battle.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070154,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "What Are you, Children of Darkness?",
+      "description": "Enter the Dark Space in Echoes of Kazeros.",
+      "icon_prefix": "achieve_13",
+      "icon_index": 13,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter the Dark Space in Echoes of Kazeros.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070155,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Nerves of Steel",
+      "description": "Pose on the dangerous cliff.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 15,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Pose on the dangerous cliff.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070156,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "The Floor is Lava!",
+      "description": "Step on the lava on the floor.",
+      "icon_prefix": "achieve_16",
+      "icon_index": 16,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Step on the lava on the floor.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6070157,
+      "category1": "Adventure",
+      "category2": "Continent: North Kurzan",
+      "category_key": {
+        "main": 2,
+        "sub": 39
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "I Gave it My All...",
+      "description": "Get burned in the lava.",
+      "icon_prefix": "achieve_15",
+      "icon_index": 81,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Get burned in the lava.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 6070158,
       "category1": "Adventure",
       "category2": "Continent: North Kurzan",
@@ -19334,68 +19613,6 @@
       "is_new": false
     },
     {
-      "id": 6070149,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Winter is Coming",
-      "description": "Receive help from the Northern Alliance at the Xavier Valley Fortress.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 17,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Receive help from the Northern Alliance at the Xavier Valley Fortress.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 1905401
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070150,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "It Was Summer",
-      "description": "Get help from the Punika reinforcements at the Gondar Watchtower.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 18,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Get help from the Punika reinforcements at the Gondar Watchtower.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 1905403
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 6070161,
       "category1": "Adventure",
       "category2": "Continent: North Kurzan",
@@ -19496,68 +19713,6 @@
           "obj_npc_id": 0,
           "obj_skill_id": 0,
           "obj_quest_id": 1904012
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070151,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Comradeship in the Xavier Valley",
-      "description": "Select Xavier Valley and proceed to the Highland of the Final Battle.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 20,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Achieved if you selected Xavier Valley when choosing a base to support your progression through Highland of the Final Battle.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070152,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Comradeship in the Gondar Watchtower",
-      "description": "Select Gondar Watchtower and proceed to the Highland of the Final Battle.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 21,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Achieved if you selected Gondar Watchtower when choosing a base to support your progression through Highland of the Final Battle.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
         }
       ],
       "is_new": false
@@ -19704,161 +19859,6 @@
       "is_new": false
     },
     {
-      "id": 6070154,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "What Are you, Children of Darkness?",
-      "description": "Enter the Dark Space in Echoes of Kazeros.",
-      "icon_prefix": "achieve_13",
-      "icon_index": 13,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Enter the Dark Space in Echoes of Kazeros.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070155,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Nerves of Steel",
-      "description": "Pose on the dangerous cliff.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 15,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Pose on the dangerous cliff.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070156,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "The Floor is Lava!",
-      "description": "Step on the lava on the floor.",
-      "icon_prefix": "achieve_16",
-      "icon_index": 16,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Step on the lava on the floor.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6070157,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "I Gave it My All...",
-      "description": "Get burned in the lava.",
-      "icon_prefix": "achieve_15",
-      "icon_index": 81,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Get burned in the lava.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 4050026,
-      "category1": "Adventure",
-      "category2": "Continent: North Kurzan",
-      "category_key": {
-        "main": 2,
-        "sub": 39
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Fierce Goodbye",
-      "description": "Defeat Sevek Atun.",
-      "icon_prefix": "achieve_08",
-      "icon_index": 48,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Defeat Sevek Atun.",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 300990,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 6070183,
       "category1": "Adventure",
       "category2": "Continent: North Kurzan",
@@ -19888,6 +19888,161 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "id": 6070184,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "The Lost Ark",
+      "description": "The recovered key",
+      "icon_prefix": "achieve_16",
+      "icon_index": 233,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Join Armen in his light",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 4500432
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6070185,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Light of Creation",
+      "description": "Destiny rewritten",
+      "icon_prefix": "achieve_16",
+      "icon_index": 234,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Use the power of the Ark",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 4500428
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6070186,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Epic Rewritten",
+      "description": "Continued future",
+      "icon_prefix": "achieve_16",
+      "icon_index": 236,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Use the Ark to alter your destiny and write a new story",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 4500008
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6070187,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "The One Who Opens the Future",
+      "description": "A name etched in history",
+      "icon_prefix": "achieve_16",
+      "icon_index": 48,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Engrave your name on the victory monument",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 4500433
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6070188,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "A Friend Named Armen",
+      "description": "Find the Light of Resonance",
+      "icon_prefix": "achieve_04",
+      "icon_index": 49,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the Warm Wind Under the Twilight quest.",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 6005102
+        }
+      ],
+      "is_new": true
     },
     {
       "id": 1030022,
@@ -21202,13 +21357,13 @@
       "hidden": false,
       "rarity": "common",
       "name": "An Ornithologist's Request",
-      "description": "Complete the \"Ornithologist Eto” quest on Dreamgull Island",
+      "description": "Complete the \"Ornithologist Eto\" quest on Dreamgull Island",
       "icon_prefix": "achieve_06",
       "icon_index": 13,
       "objectives": [
         {
           "order": 1,
-          "text": "Complete the \"Ornithologist Eto” quest on Dreamgull Island",
+          "text": "Complete the \"Ornithologist Eto\" quest on Dreamgull Island",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -23433,7 +23588,7 @@
       "objectives": [
         {
           "order": 1,
-          "text": "Complete “Of the Meadow, To the Meadow” quest on Azure Wind Island",
+          "text": "Complete \"Of the Meadow, To the Meadow\" quest on Azure Wind Island",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25014,7 +25169,7 @@
       "objectives": [
         {
           "order": 1,
-          "text": "Complete the “Blue-blazing Blade” quest",
+          "text": "Complete the \"Blue-blazing Blade\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25224,7 +25379,7 @@
       "objectives": [
         {
           "order": 1,
-          "text": "Complete the “Islet with a Story” quest",
+          "text": "Complete the \"Islet with a Story\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25236,7 +25391,7 @@
         },
         {
           "order": 1,
-          "text": "Complete the “Chapter 1: Moko Village” quest",
+          "text": "Complete the \"Chapter 1: Moko Village\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25248,7 +25403,7 @@
         },
         {
           "order": 1,
-          "text": "Complete the “Chapter 2: Help the Residents” quest",
+          "text": "Complete the \"Chapter 2: Rescue the Residents\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25260,7 +25415,7 @@
         },
         {
           "order": 1,
-          "text": "Complete the “Chapter 3: Rescue the Residents” quest",
+          "text": "Complete the \"Chapter 3: Find the Witch's Trail\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -25272,7 +25427,7 @@
         },
         {
           "order": 1,
-          "text": "Complete the “Chapter 4: To the Witch's House” quest",
+          "text": "Complete the \"Chapter 4: To the Witch's House\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -26824,7 +26979,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 1040049,
@@ -27041,7 +27196,7 @@
           "obj_quest_id": 4501703
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 2020001,
@@ -33611,7 +33766,7 @@
       "hidden": false,
       "rarity": "common",
       "name": "Proclaim the Reign of the Brawl King",
-      "description": "Use the Breaker skill ‘Yeon Galestorm Strike'",
+      "description": "Use the Breaker skill 'Yeon Galestorm Strike'",
       "icon_prefix": "achieve_15",
       "icon_index": 179,
       "objectives": [
@@ -33642,7 +33797,7 @@
       "hidden": false,
       "rarity": "common",
       "name": "Fist's Ultimate Skill",
-      "description": "Use the Breaker skill ‘Celestial Force Barrage'",
+      "description": "Use the Breaker skill 'Celestial Force Barrage'",
       "icon_prefix": "achieve_15",
       "icon_index": 180,
       "objectives": [
@@ -33704,7 +33859,7 @@
       "hidden": false,
       "rarity": "common",
       "name": "Golden Shadow",
-      "description": "Use the Breaker Awakening Skill ‘Butterfly Sting'",
+      "description": "Use the Breaker Awakening Skill 'Butterfly Sting'",
       "icon_prefix": "achieve_15",
       "icon_index": 182,
       "objectives": [
@@ -39773,7 +39928,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020503,
@@ -39804,7 +39959,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020504,
@@ -39835,7 +39990,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020505,
@@ -39866,7 +40021,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020506,
@@ -39897,7 +40052,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020507,
@@ -39952,7 +40107,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020508,
@@ -39983,7 +40138,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020509,
@@ -40014,7 +40169,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020510,
@@ -40045,7 +40200,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020511,
@@ -40076,7 +40231,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020512,
@@ -40107,7 +40262,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020513,
@@ -40138,7 +40293,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020514,
@@ -40169,7 +40324,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4020515,
@@ -40200,7 +40355,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 3010000,
@@ -43037,6 +43192,92 @@
       "is_new": false
     },
     {
+      "id": 3020070,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Shine, Power of Nature I",
+      "description": "Use Sylperion and Undart's powers",
+      "icon_prefix": "achieve_15",
+      "icon_index": 119,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Use Sylperion's Power 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 1,
+          "text": "Use Undart's Power 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 3020071,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Shine, Power of Nature II",
+      "description": "Use Ephernia and Gnosis's powers",
+      "icon_prefix": "achieve_15",
+      "icon_index": 120,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Use Ephernia's Power 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 1,
+          "text": "Use Gnosis's Power 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 3020074,
       "category1": "Character",
       "category2": "Item",
@@ -44834,6 +45075,968 @@
       "is_new": false
     },
     {
+      "id": 2010007,
+      "category1": "Character",
+      "category2": "Exchange",
+      "category_key": {
+        "main": 3,
+        "sub": 103
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "We're All Buddies!",
+      "description": "Join a guild",
+      "icon_prefix": "achieve_01",
+      "icon_index": 58,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Join a Guild",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010008,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Victory is earned!",
+      "description": "Participate in PVP Guild content",
+      "icon_prefix": "achieve_08",
+      "icon_index": 62,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate 1 time in PVP Guild content",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate 10 times in PVP Guild content",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate 50 times in PVP Guild content",
+          "count": 50,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010009,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "With Everybody's Strength",
+      "description": "Participate in Boss Raid Guild content",
+      "icon_prefix": "achieve_08",
+      "icon_index": 10,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate 1 time in Boss Raid Guild content",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate 10 times in Boss Raid Guild content",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate 100 times in Boss Raid Guild content",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010010,
+      "category1": "Character",
+      "category2": "Exchange",
+      "category_key": {
+        "main": 3,
+        "sub": 103
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "You and I Right Now...",
+      "description": "Clear a Dungeon with Guild members as Party or Raid Group",
+      "icon_prefix": "achieve_04",
+      "icon_index": 28,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear a Dungeon 1 time with Guild members",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Clear a Dungeon 10 times with Guild members",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Clear a Dungeon 100 times with Guild members",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Clear a Dungeon 250 times with Guild members",
+          "count": 250,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Clear a Dungeon 500 times with Guild members",
+          "count": 500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010011,
+      "category1": "Character",
+      "category2": "Exchange",
+      "category_key": {
+        "main": 3,
+        "sub": 103
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "I'm the Guild's Philanthropist!",
+      "description": "Donate to your Guild",
+      "icon_prefix": "achieve_02",
+      "icon_index": 36,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Donate to your Guild 1 time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Donate to your Guild 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Donate to your Guild 100 times",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Donate to your Guild 250 times",
+          "count": 250,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Donate to your Guild 500 times",
+          "count": 500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010012,
+      "category1": "Character",
+      "category2": "Exchange",
+      "category_key": {
+        "main": 3,
+        "sub": 103
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Professional Researcher",
+      "description": "Support Guild research",
+      "icon_prefix": "achieve_03",
+      "icon_index": 27,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Support Guild research 1 time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Support Guild research 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Support Guild research 50 times",
+          "count": 50,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Support Guild research 100 times",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Support Guild research 250 times",
+          "count": 250,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010020,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Magical Ore Indulgence",
+      "description": "Participate in the Medeia Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 37,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Medeia Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Medeia Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Medeia Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Medeia Siege 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Medeia Siege 30 times",
+          "count": 30,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010021,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Up-and-Coming Slime Gem Hunter",
+      "description": "Participate in the Slime Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 38,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Slime Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Slime Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Slime Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Slime Island Siege 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Slime Island Siege 30 times",
+          "count": 30,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010022,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Expression of Desire",
+      "description": "Participate in the Death's Hold Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 39,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Death's Hold Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Death's Hold Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Death's Hold Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Death's Hold Island Siege 18 times",
+          "count": 18,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Death's Hold Island Siege 24 times",
+          "count": 24,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010023,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Hidden Treasure Hunter",
+      "description": "Participate in the Lush Reed Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 40,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Lush Reed Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Lush Reed Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Lush Reed Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Lush Reed Island Siege 18 times",
+          "count": 18,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Lush Reed Island Siege 24 times",
+          "count": 24,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010024,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Oh, to Be a Naruni",
+      "description": "Participate in the Naruni Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 41,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Naruni Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Naruni Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Naruni Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Naruni Island Siege 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Naruni Island Siege 30 times",
+          "count": 30,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010025,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Snowkin Manager",
+      "description": "Participate in the Snowpang Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 42,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Snowpang Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Snowpang Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Snowpang Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Snowpang Island Siege 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Snowpang Island Siege 30 times",
+          "count": 30,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010026,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Real Gold, Not a Golden Wave",
+      "description": "Participate in the Golden Wave Island Siege",
+      "icon_prefix": "achieve_15",
+      "icon_index": 43,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Participate in the Golden Wave Island Siege 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Participate in the Golden Wave Island Siege 5 times",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Participate in the Golden Wave Island Siege 10 times",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Participate in the Golden Wave Island Siege 20 times",
+          "count": 20,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Participate in the Golden Wave Island Siege 30 times",
+          "count": 30,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 2010027,
+      "category1": "Character",
+      "category2": "Exchange",
+      "category_key": {
+        "main": 3,
+        "sub": 103
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Wolf Whisperer",
+      "description": "Become close friends with someone who feels a connection with wolves.",
+      "icon_prefix": "achieve_15",
+      "icon_index": 231,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the With the Wolf quest",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 502304
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 2030000,
       "category1": "Character",
       "category2": "Exchange",
@@ -45197,37 +46400,6 @@
           "obj_npc_id": 13001,
           "obj_skill_id": 0,
           "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 10010142,
-      "category1": "Character",
-      "category2": "Exchange",
-      "category_key": {
-        "main": 3,
-        "sub": 103
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Masquerade",
-      "description": "Prepare a mask for the Luterra Palace Winter Ball",
-      "icon_prefix": "achieve_15",
-      "icon_index": 100,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Complete the \"Waiting for the Ball\" quest",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 801323
         }
       ],
       "is_new": false
@@ -46436,61 +47608,6 @@
           "level": 0,
           "item_level": 0,
           "obj_npc_id": 43050,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 10010141,
-      "category1": "Character",
-      "category2": "Exchange",
-      "category_key": {
-        "main": 3,
-        "sub": 103
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "common",
-      "name": "Even after it's all sold, it's my land!",
-      "description": "Become trusted by Neria of Kalinar",
-      "icon_prefix": "achieve_14",
-      "icon_index": 3,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Increase Kalinar Neria's Rapport to Amicable",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 45701,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Increase Kalinar Neria's Rapport to Friendly",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 45701,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Increase Kalinar Neria's Rapport to Trusted",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 45701,
           "obj_skill_id": 0,
           "obj_quest_id": 0
         }
@@ -47907,7 +49024,7 @@
       "is_new": false
     },
     {
-      "id": 2010007,
+      "id": 10010141,
       "category1": "Character",
       "category2": "Exchange",
       "category_key": {
@@ -47917,257 +49034,44 @@
       "enabled": true,
       "hidden": false,
       "rarity": "common",
-      "name": "We're All Buddies!",
-      "description": "Join a guild",
-      "icon_prefix": "achieve_01",
-      "icon_index": 58,
+      "name": "Even after it's all sold, it's my land!",
+      "description": "Become trusted by Neria of Kalinar",
+      "icon_prefix": "achieve_14",
+      "icon_index": 3,
       "objectives": [
         {
           "order": 1,
-          "text": "Join a Guild",
+          "text": "Increase Kalinar Neria's Rapport to Amicable",
           "count": 1,
           "threshold": 0,
           "time": 0,
           "level": 0,
           "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010010,
-      "category1": "Character",
-      "category2": "Exchange",
-      "category_key": {
-        "main": 3,
-        "sub": 103
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "uncommon",
-      "name": "You and I Right Now...",
-      "description": "Clear a Dungeon with Guild members as Party or Raid Group",
-      "icon_prefix": "achieve_04",
-      "icon_index": 28,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Clear a Dungeon 1 time with Guild members",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
+          "obj_npc_id": 45701,
           "obj_skill_id": 0,
           "obj_quest_id": 0
         },
         {
           "order": 2,
-          "text": "Clear a Dungeon 10 times with Guild members",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Clear a Dungeon 100 times with Guild members",
-          "count": 100,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Clear a Dungeon 250 times with Guild members",
-          "count": 250,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Clear a Dungeon 500 times with Guild members",
-          "count": 500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010011,
-      "category1": "Character",
-      "category2": "Exchange",
-      "category_key": {
-        "main": 3,
-        "sub": 103
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "uncommon",
-      "name": "I'm the Guild's Philanthropist!",
-      "description": "Donate to your Guild",
-      "icon_prefix": "achieve_02",
-      "icon_index": 36,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Donate to your Guild 1 time",
+          "text": "Increase Kalinar Neria's Rapport to Friendly",
           "count": 1,
           "threshold": 0,
           "time": 0,
           "level": 0,
           "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Donate to your Guild 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
+          "obj_npc_id": 45701,
           "obj_skill_id": 0,
           "obj_quest_id": 0
         },
         {
           "order": 3,
-          "text": "Donate to your Guild 100 times",
-          "count": 100,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Donate to your Guild 250 times",
-          "count": 250,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Donate to your Guild 500 times",
-          "count": 500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010012,
-      "category1": "Character",
-      "category2": "Exchange",
-      "category_key": {
-        "main": 3,
-        "sub": 103
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "uncommon",
-      "name": "Professional Researcher",
-      "description": "Support Guild research",
-      "icon_prefix": "achieve_03",
-      "icon_index": 27,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Support Guild research 1 time",
+          "text": "Increase Kalinar Neria's Rapport to Trusted",
           "count": 1,
           "threshold": 0,
           "time": 0,
           "level": 0,
           "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Support Guild research 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Support Guild research 50 times",
-          "count": 50,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Support Guild research 100 times",
-          "count": 100,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Support Guild research 250 times",
-          "count": 250,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
+          "obj_npc_id": 45701,
           "obj_skill_id": 0,
           "obj_quest_id": 0
         }
@@ -48175,7 +49079,7 @@
       "is_new": false
     },
     {
-      "id": 2010027,
+      "id": 10010142,
       "category1": "Character",
       "category2": "Exchange",
       "category_key": {
@@ -48185,14 +49089,14 @@
       "enabled": true,
       "hidden": false,
       "rarity": "common",
-      "name": "Wolf Whisperer",
-      "description": "Become close friends with someone who feels a connection with wolves.",
+      "name": "Masquerade",
+      "description": "Prepare a mask for the Luterra Palace Winter Ball",
       "icon_prefix": "achieve_15",
-      "icon_index": 231,
+      "icon_index": 100,
       "objectives": [
         {
           "order": 1,
-          "text": "Complete the With the Wolf quest",
+          "text": "Complete the \"Waiting for the Ball\" quest",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -48200,7 +49104,7 @@
           "item_level": 0,
           "obj_npc_id": 0,
           "obj_skill_id": 0,
-          "obj_quest_id": 502304
+          "obj_quest_id": 801323
         }
       ],
       "is_new": false
@@ -49922,6 +50826,164 @@
       "is_new": false
     },
     {
+      "id": 5010064,
+      "category1": "Trade Skill",
+      "category2": "Mining",
+      "category_key": {
+        "main": 4,
+        "sub": 4
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Moonlight Miner",
+      "description": "Mine ore veins while Moonlight Miner is active",
+      "icon_prefix": "achieve_10",
+      "icon_index": 0,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Mine an ore vein while Moonlight Miner is active 100 times",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Mine an ore vein while Moonlight Miner is active 250 times",
+          "count": 250,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Mine an ore vein while Moonlight Miner is active 500 times",
+          "count": 500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Mine an ore vein while Moonlight Miner is active 1,000 times",
+          "count": 1000,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Mine an ore vein while Moonlight Miner is active 2,500 times",
+          "count": 2500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 5020018,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Land of Ore",
+      "description": "Mine ore in Nahun's Domain",
+      "icon_prefix": "achieve_11",
+      "icon_index": 15,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Mine 10 ore in Nahun's Domain",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Mine 50 ore in Nahun's Domain",
+          "count": 50,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Mine 100 ore in Nahun's Domain",
+          "count": 100,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Mine 250 ore in Nahun's Domain",
+          "count": 250,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Mine 500 ore in Nahun's Domain",
+          "count": 500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 5040000,
       "category1": "Trade Skill",
       "category2": "Mining",
@@ -50080,25 +51142,104 @@
       "is_new": false
     },
     {
-      "id": 5010064,
-      "category1": "Trade Skill",
-      "category2": "Mining",
+      "id": 5010043,
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 4,
-        "sub": 4
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "uncommon",
-      "name": "Moonlight Miner",
-      "description": "Mine ore veins while Moonlight Miner is active",
-      "icon_prefix": "achieve_10",
-      "icon_index": 0,
+      "name": "Fast Tracker",
+      "description": "Use a Golden Rabbit Den item and find a hideout within a certain time.",
+      "icon_prefix": "achieve_05",
+      "icon_index": 19,
       "objectives": [
         {
           "order": 1,
-          "text": "Mine an ore vein while Moonlight Miner is active 100 times",
-          "count": 100,
+          "text": "Use a Golden Rabbit Den item and find 1 hideout within 15 minutes.",
+          "count": 1,
+          "threshold": 0,
+          "time": 900,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Use a Golden Rabbit Den item and find a hideout within 8 minutes.",
+          "count": 1,
+          "threshold": 0,
+          "time": 480,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Use a Golden Rabbit Den item and find a hideout within 5 minutes.",
+          "count": 1,
+          "threshold": 0,
+          "time": 300,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Use a Golden Rabbit Den item and find a hideout within 3 minutes.",
+          "count": 1,
+          "threshold": 0,
+          "time": 180,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Use a Golden Rabbit Den item and find a hideout within 1 minute.",
+          "count": 1,
+          "threshold": 0,
+          "time": 60,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 5010053,
+      "category1": "Trade Skill",
+      "category2": "Hunting",
+      "category_key": {
+        "main": 4,
+        "sub": 5
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "rare",
+      "name": "Flesh and Bones",
+      "description": "Successfully hunt and carve up prey",
+      "icon_prefix": "achieve_10",
+      "icon_index": 52,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Hunt down and carve up 150 prey",
+          "count": 150,
           "threshold": 0,
           "time": 0,
           "level": 0,
@@ -50109,19 +51250,7 @@
         },
         {
           "order": 2,
-          "text": "Mine an ore vein while Moonlight Miner is active 250 times",
-          "count": 250,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Mine an ore vein while Moonlight Miner is active 500 times",
+          "text": "Hunt down and carve up 500 prey",
           "count": 500,
           "threshold": 0,
           "time": 0,
@@ -50132,9 +51261,21 @@
           "obj_quest_id": 0
         },
         {
+          "order": 3,
+          "text": "Hunt down and carve up 750 prey",
+          "count": 750,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
           "order": 4,
-          "text": "Mine an ore vein while Moonlight Miner is active 1,000 times",
-          "count": 1000,
+          "text": "Hunt down and carve up 1,500 prey",
+          "count": 1500,
           "threshold": 0,
           "time": 0,
           "level": 0,
@@ -50145,8 +51286,87 @@
         },
         {
           "order": 5,
-          "text": "Mine an ore vein while Moonlight Miner is active 2,500 times",
-          "count": 2500,
+          "text": "Hunt down and carve up 3,000 prey",
+          "count": 3000,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 5010062,
+      "category1": "Trade Skill",
+      "category2": "Hunting",
+      "category_key": {
+        "main": 4,
+        "sub": 5
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Gotcha!",
+      "description": "Throw a machete and hit prey while Search is active",
+      "icon_prefix": "achieve_05",
+      "icon_index": 15,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Throw a machete and hit prey while Search is active 150 times",
+          "count": 150,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Throw a machete and hit prey while Search is active 500 times",
+          "count": 500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Throw a machete and hit prey while Search is active 750 times",
+          "count": 750,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 4,
+          "text": "Throw a machete and hit prey while Search is active 1,500 times",
+          "count": 1500,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 5,
+          "text": "Throw a machete and hit prey while Search is active 3,000 times",
+          "count": 3000,
           "threshold": 0,
           "time": 0,
           "level": 0,
@@ -50305,164 +51525,6 @@
           "order": 1,
           "text": "Equip Relic Hunting tools",
           "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 5010053,
-      "category1": "Trade Skill",
-      "category2": "Hunting",
-      "category_key": {
-        "main": 4,
-        "sub": 5
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "rare",
-      "name": "Flesh and Bones",
-      "description": "Successfully hunt and carve up prey",
-      "icon_prefix": "achieve_10",
-      "icon_index": 52,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Hunt down and carve up 150 prey",
-          "count": 150,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Hunt down and carve up 500 prey",
-          "count": 500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Hunt down and carve up 750 prey",
-          "count": 750,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Hunt down and carve up 1,500 prey",
-          "count": 1500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Hunt down and carve up 3,000 prey",
-          "count": 3000,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 5010062,
-      "category1": "Trade Skill",
-      "category2": "Hunting",
-      "category_key": {
-        "main": 4,
-        "sub": 5
-      },
-      "enabled": true,
-      "hidden": false,
-      "rarity": "uncommon",
-      "name": "Gotcha!",
-      "description": "Throw a machete and hit prey while Search is active",
-      "icon_prefix": "achieve_05",
-      "icon_index": 15,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Throw a machete and hit prey while Search is active 150 times",
-          "count": 150,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Throw a machete and hit prey while Search is active 500 times",
-          "count": 500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Throw a machete and hit prey while Search is active 750 times",
-          "count": 750,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Throw a machete and hit prey while Search is active 1,500 times",
-          "count": 1500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Throw a machete and hit prey while Search is active 3,000 times",
-          "count": 3000,
           "threshold": 0,
           "time": 0,
           "level": 0,
@@ -59974,14 +61036,14 @@
     },
     {
       "id": 6042121,
-      "category1": "Wartorn",
-      "category2": "Guardian Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 5,
-        "sub": 5
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Godlike Analyst",
       "description": "Find the real Gargadeth amongst the summoned illusions",
@@ -60211,14 +61273,14 @@
     },
     {
       "id": 6042124,
-      "category1": "Wartorn",
-      "category2": "Guardian Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 5,
-        "sub": 5
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Find the Real One",
       "description": "Find Veskal's body and stop him",
@@ -60369,14 +61431,14 @@
     },
     {
       "id": 6042126,
-      "category1": "Wartorn",
-      "category2": "Guardian Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 5,
-        "sub": 5
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Three! Two! One! Explode!",
       "description": "Stop the destruction of the Energy Sphere created by Argeos.",
@@ -60764,14 +61826,14 @@
     },
     {
       "id": 6042131,
-      "category1": "Wartorn",
-      "category2": "Guardian Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 5,
-        "sub": 5
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Shooting Star!",
       "description": "Counter a particular attack phase",
@@ -61008,14 +62070,14 @@
     },
     {
       "id": 6042135,
-      "category1": "Wartorn",
-      "category2": "Guardian Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 5,
-        "sub": 5
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Start off with a Bang, End with a Whimper",
       "description": "Destroy Krathios's tail armor",
@@ -80183,6 +81245,37 @@
       "is_new": false
     },
     {
+      "id": 9020006,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Commence Trading!",
+      "description": "Enter into a contract with a Trade Merchant",
+      "icon_prefix": "achieve_06",
+      "icon_index": 32,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter a contract with a Merchant for the first time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 9020007,
       "category1": "Stronghold",
       "category2": "Activity",
@@ -82297,6 +83390,37 @@
           "level": 0,
           "item_level": 0,
           "obj_npc_id": 506700,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 10010033,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "All Thumbs",
+      "description": "Destroy an Ability Stone by failing to facet",
+      "icon_prefix": "achieve_03",
+      "icon_index": 11,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Destroy an Ability Stone by failing to facet for the first time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
           "obj_skill_id": 0,
           "obj_quest_id": 0
         }
@@ -85345,10 +86469,10 @@
     },
     {
       "id": 10010147,
-      "category1": "Hidden",
+      "category1": "Legacy",
       "category2": "All",
       "category_key": {
-        "main": 9,
+        "main": 10,
         "sub": 1
       },
       "enabled": true,
@@ -86923,37 +88047,6 @@
       "is_new": false
     },
     {
-      "id": 6043004,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Trials of Velganos",
-      "description": "[Trial Guardian Raid] Defeat Guardian Velganos - Lost Ark S1",
-      "icon_prefix": "achieve_14",
-      "icon_index": 57,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "[Trial Guardian Raid] Defeat Velganos",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 13001,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 10012005,
       "category1": "Legacy",
       "category2": "All",
@@ -86985,37 +88078,6 @@
       "is_new": false
     },
     {
-      "id": 6043003,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Trials of Ancient Calventus",
-      "description": "[Trial Guardian Raid] Defeat Guardian Ancient Calventus - Lost Ark S1",
-      "icon_prefix": "achieve_14",
-      "icon_index": 57,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "[Trial Guardian Raid] Defeat Ancient Calventus",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 13001,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 10012004,
       "category1": "Legacy",
       "category2": "All",
@@ -87034,37 +88096,6 @@
         {
           "order": 1,
           "text": "[Trial Guardian Raid] First to defeat Ancient Calventus across all servers",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 13001,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 6043001,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Trials of Igrexion",
-      "description": "[Trial Guardian Raid] Defeat Guardian Igrexion - Lost Ark S1",
-      "icon_prefix": "achieve_14",
-      "icon_index": 50,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "[Trial Guardian Raid] Defeat Igrexion",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -87202,7 +88233,7 @@
       "is_new": false
     },
     {
-      "id": 10012001,
+      "id": 6043001,
       "category1": "Legacy",
       "category2": "All",
       "category_key": {
@@ -87212,14 +88243,14 @@
       "enabled": true,
       "hidden": true,
       "rarity": "common",
-      "name": "Trial of Radiant Brilliance",
-      "description": "[Trial Guardian Raid] First to defeat Guardian Achates across all servers - LOST ARK S1",
+      "name": "Trials of Igrexion",
+      "description": "[Trial Guardian Raid] Defeat Guardian Igrexion - Lost Ark S1",
       "icon_prefix": "achieve_14",
-      "icon_index": 52,
+      "icon_index": 50,
       "objectives": [
         {
           "order": 1,
-          "text": "[Trial Guardian Raid] First to defeat Achates across all servers",
+          "text": "[Trial Guardian Raid] Defeat Igrexion",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -87251,6 +88282,99 @@
         {
           "order": 1,
           "text": "[Trial Guardian Raid] Defeat Alberhastic",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 13001,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6043003,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Trials of Ancient Calventus",
+      "description": "[Trial Guardian Raid] Defeat Guardian Ancient Calventus - Lost Ark S1",
+      "icon_prefix": "achieve_14",
+      "icon_index": 57,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "[Trial Guardian Raid] Defeat Ancient Calventus",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 13001,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 6043004,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Trials of Velganos",
+      "description": "[Trial Guardian Raid] Defeat Guardian Velganos - Lost Ark S1",
+      "icon_prefix": "achieve_14",
+      "icon_index": 57,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "[Trial Guardian Raid] Defeat Velganos",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 13001,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 10012001,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Trial of Radiant Brilliance",
+      "description": "[Trial Guardian Raid] First to defeat Guardian Achates across all servers - LOST ARK S1",
+      "icon_prefix": "achieve_14",
+      "icon_index": 52,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "[Trial Guardian Raid] First to defeat Achates across all servers",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -87357,6 +88481,130 @@
       "is_new": false
     },
     {
+      "id": 1040000,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Between Hot and Cold",
+      "description": "Complete the Warrior Prologue",
+      "icon_prefix": "achieve_01",
+      "icon_index": 40,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the Warrior Prologue",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 1040001,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Lady Grand Master",
+      "description": "Complete the Martial Artist Prologue",
+      "icon_prefix": "achieve_01",
+      "icon_index": 41,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the Martial Artist Prologue",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 1040002,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Beyond Frozen Time",
+      "description": "Complete the Gunner Prologue",
+      "icon_prefix": "achieve_01",
+      "icon_index": 42,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the Gunner Prologue",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 1040003,
+      "category1": "Legacy",
+      "category2": "All",
+      "category_key": {
+        "main": 10,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "The Call of Magick",
+      "description": "Complete the Mage Prologue",
+      "icon_prefix": "achieve_13",
+      "icon_index": 73,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Complete the Mage Prologue",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
       "id": 1040004,
       "category1": "Legacy",
       "category2": "All",
@@ -87424,99 +88672,6 @@
       "is_new": false
     },
     {
-      "id": 1040000,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Between Hot and Cold",
-      "description": "Complete the Warrior Prologue",
-      "icon_prefix": "achieve_01",
-      "icon_index": 40,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Complete the Warrior Prologue",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 1040003,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "The Call of Magick",
-      "description": "Complete the Mage Prologue",
-      "icon_prefix": "achieve_13",
-      "icon_index": 73,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Complete the Mage Prologue",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 1040001,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Lady Grand Master",
-      "description": "Complete the Martial Artist Prologue",
-      "icon_prefix": "achieve_01",
-      "icon_index": 41,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Complete the Martial Artist Prologue",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 1040057,
       "category1": "Legacy",
       "category2": "All",
@@ -87535,37 +88690,6 @@
         {
           "order": 1,
           "text": "Complete the Assassin prologue",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 1040002,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Beyond Frozen Time",
-      "description": "Complete the Gunner Prologue",
-      "icon_prefix": "achieve_01",
-      "icon_index": 42,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Complete the Gunner Prologue",
           "count": 1,
           "threshold": 0,
           "time": 0,
@@ -95718,669 +96842,6 @@
       "is_new": false
     },
     {
-      "id": 2010008,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Victory is earned!",
-      "description": "Participate in PVP Guild content",
-      "icon_prefix": "achieve_08",
-      "icon_index": 62,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate 1 time in PVP Guild content",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate 10 times in PVP Guild content",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate 50 times in PVP Guild content",
-          "count": 50,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010009,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "With Everybody's Strength",
-      "description": "Participate in Boss Raid Guild content",
-      "icon_prefix": "achieve_08",
-      "icon_index": 10,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate 1 time in Boss Raid Guild content",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate 10 times in Boss Raid Guild content",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate 100 times in Boss Raid Guild content",
-          "count": 100,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010020,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Magical Ore Indulgence",
-      "description": "Participate in the Medeia Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 37,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Medeia Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Medeia Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Medeia Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Medeia Siege 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Medeia Siege 30 times",
-          "count": 30,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010021,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Up-and-Coming Slime Gem Hunter",
-      "description": "Participate in the Slime Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 38,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Slime Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Slime Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Slime Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Slime Island Siege 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Slime Island Siege 30 times",
-          "count": 30,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010022,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Expression of Desire",
-      "description": "Participate in the Death's Hold Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 39,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Death's Hold Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Death's Hold Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Death's Hold Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Death's Hold Island Siege 18 times",
-          "count": 18,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Death's Hold Island Siege 24 times",
-          "count": 24,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010023,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Hidden Treasure Hunter",
-      "description": "Participate in the Lush Reed Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 40,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Lush Reed Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Lush Reed Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Lush Reed Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Lush Reed Island Siege 18 times",
-          "count": 18,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Lush Reed Island Siege 24 times",
-          "count": 24,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010024,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Oh, to Be a Naruni",
-      "description": "Participate in the Naruni Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 41,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Naruni Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Naruni Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Naruni Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Naruni Island Siege 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Naruni Island Siege 30 times",
-          "count": 30,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010025,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Snowkin Manager",
-      "description": "Participate in the Snowpang Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 42,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Snowpang Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Snowpang Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Snowpang Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Snowpang Island Siege 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Snowpang Island Siege 30 times",
-          "count": 30,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 2010026,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Real Gold, Not a Golden Wave",
-      "description": "Participate in the Golden Wave Island Siege",
-      "icon_prefix": "achieve_15",
-      "icon_index": 43,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Participate in the Golden Wave Island Siege 3 times",
-          "count": 3,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Participate in the Golden Wave Island Siege 5 times",
-          "count": 5,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Participate in the Golden Wave Island Siege 10 times",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Participate in the Golden Wave Island Siege 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Participate in the Golden Wave Island Siege 30 times",
-          "count": 30,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 10010019,
       "category1": "Legacy",
       "category2": "All",
@@ -96907,85 +97368,6 @@
       "is_new": false
     },
     {
-      "id": 5020018,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Land of Ore",
-      "description": "Mine ore in Nahun's Domain",
-      "icon_prefix": "achieve_11",
-      "icon_index": 15,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Mine 10 ore in Nahun's Domain",
-          "count": 10,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Mine 50 ore in Nahun's Domain",
-          "count": 50,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Mine 100 ore in Nahun's Domain",
-          "count": 100,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Mine 250 ore in Nahun's Domain",
-          "count": 250,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Mine 500 ore in Nahun's Domain",
-          "count": 500,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 5020019,
       "category1": "Legacy",
       "category2": "All",
@@ -97175,233 +97557,6 @@
       "is_new": false
     },
     {
-      "id": 3020070,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Shine, Power of Nature I",
-      "description": "Use Sylperion and Undart's powers",
-      "icon_prefix": "achieve_15",
-      "icon_index": 119,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Use Sylperion's Power 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 1,
-          "text": "Use Undart's Power 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 3020071,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Shine, Power of Nature II",
-      "description": "Use Ephernia and Gnosis's powers",
-      "icon_prefix": "achieve_15",
-      "icon_index": 120,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Use Ephernia's Power 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 1,
-          "text": "Use Gnosis's Power 20 times",
-          "count": 20,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 10010033,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "All Thumbs",
-      "description": "Destroy an Ability Stone by failing to facet",
-      "icon_prefix": "achieve_03",
-      "icon_index": 11,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Destroy an Ability Stone by failing to facet for the first time",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 9020006,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "common",
-      "name": "Commence Trading!",
-      "description": "Enter into a contract with a Trade Merchant",
-      "icon_prefix": "achieve_06",
-      "icon_index": 32,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Enter a contract with a Merchant for the first time",
-          "count": 1,
-          "threshold": 0,
-          "time": 0,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "id": 5010043,
-      "category1": "Legacy",
-      "category2": "All",
-      "category_key": {
-        "main": 10,
-        "sub": 1
-      },
-      "enabled": true,
-      "hidden": true,
-      "rarity": "uncommon",
-      "name": "Fast Tracker",
-      "description": "Use a Golden Rabbit Den item and find a hideout within a certain time.",
-      "icon_prefix": "achieve_05",
-      "icon_index": 19,
-      "objectives": [
-        {
-          "order": 1,
-          "text": "Use a Golden Rabbit Den item and find 1 hideout within 15 minutes.",
-          "count": 1,
-          "threshold": 0,
-          "time": 900,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 2,
-          "text": "Use a Golden Rabbit Den item and find a hideout within 8 minutes.",
-          "count": 1,
-          "threshold": 0,
-          "time": 480,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 3,
-          "text": "Use a Golden Rabbit Den item and find a hideout within 5 minutes.",
-          "count": 1,
-          "threshold": 0,
-          "time": 300,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 4,
-          "text": "Use a Golden Rabbit Den item and find a hideout within 3 minutes.",
-          "count": 1,
-          "threshold": 0,
-          "time": 180,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        },
-        {
-          "order": 5,
-          "text": "Use a Golden Rabbit Den item and find a hideout within 1 minute.",
-          "count": 1,
-          "threshold": 0,
-          "time": 60,
-          "level": 0,
-          "item_level": 0,
-          "obj_npc_id": 0,
-          "obj_skill_id": 0,
-          "obj_quest_id": 0
-        }
-      ],
-      "is_new": false
-    },
-    {
       "id": 80000001,
       "category1": "Chronicle",
       "category2": "All",
@@ -97430,7 +97585,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000002,
@@ -97461,7 +97616,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000003,
@@ -97492,7 +97647,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000004,
@@ -97523,7 +97678,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000005,
@@ -97554,7 +97709,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000006,
@@ -97585,7 +97740,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000007,
@@ -97616,7 +97771,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000008,
@@ -97647,7 +97802,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000009,
@@ -97678,7 +97833,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000010,
@@ -97709,7 +97864,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000011,
@@ -97740,7 +97895,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000012,
@@ -97771,7 +97926,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000013,
@@ -97802,7 +97957,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000014,
@@ -97833,7 +97988,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000015,
@@ -97864,7 +98019,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000016,
@@ -97895,7 +98050,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000017,
@@ -97926,7 +98081,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000018,
@@ -97957,7 +98112,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000019,
@@ -97988,7 +98143,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000020,
@@ -98019,7 +98174,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000021,
@@ -98050,7 +98205,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000022,
@@ -98072,6 +98227,192 @@
           "order": 1,
           "text": "obj_80000022_1",
           "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "id": 80000023,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000023",
+      "description": "desc_80000023",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000023_1",
+          "count": 999999999,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 80000024,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000024",
+      "description": "desc_80000024",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000024_1",
+          "count": 999999999,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 80000025,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000025",
+      "description": "desc_80000025",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000025_1",
+          "count": 999999999,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 80000026,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000026",
+      "description": "desc_80000026",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000026_1",
+          "count": 999999999,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 80000027,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000027",
+      "description": "desc_80000027",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000027_1",
+          "count": 999999999,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 80000028,
+      "category1": "Chronicle",
+      "category2": "All",
+      "category_key": {
+        "main": 11,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "name_80000028",
+      "description": "desc_80000028",
+      "icon_prefix": "achieve_01",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "obj_80000028_1",
+          "count": 999999999,
           "threshold": 0,
           "time": 0,
           "level": 0,

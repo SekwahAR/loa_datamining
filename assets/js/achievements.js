@@ -166,7 +166,7 @@ function computeCategoryStats() {
     const completed = loadCompleted();
     const stats = {};
 
-    document.querySelectorAll("tr[data-cat-main]").forEach(row => {
+    document.querySelectorAll("#ach-table-all tbody tr[data-cat-main]").forEach(row => {
         const main = row.dataset.catMain;
         const sub = row.dataset.catSub;
         const id = row.dataset.id;
