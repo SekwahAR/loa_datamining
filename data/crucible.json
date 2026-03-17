@@ -1,6 +1,6 @@
 {
   "title": "Paradise – Crucible",
-  "generated_at": "2026-03-11 15:30",
+  "generated_at": "2026-03-17 18:44",
   "seasons": {
     "Season 2": [
       {
@@ -8,105 +8,120 @@
         "open_date": null,
         "min_ilvl": 1540,
         "paradise_power": 29000,
-        "boss_name": "Black Mountain Demon's Shadow"
+        "boss_name": "Black Mountain Demon's Shadow",
+        "hp": 1109430
       },
       {
         "level": 2,
         "open_date": null,
         "min_ilvl": 1540,
         "paradise_power": 48000,
-        "boss_name": "Saldone's Shadow"
+        "boss_name": "Saldone's Shadow",
+        "hp": 2290870
       },
       {
         "level": 3,
         "open_date": null,
         "min_ilvl": 1540,
         "paradise_power": 77000,
-        "boss_name": "Maneth's Shadow"
+        "boss_name": "Maneth's Shadow",
+        "hp": 3774950
       },
       {
         "level": 4,
         "open_date": "2025-11-26",
         "min_ilvl": 1540,
         "paradise_power": 160000,
-        "boss_name": "Scientist Mari's Shadow"
+        "boss_name": "Scientist Mari's Shadow",
+        "hp": 6820491
       },
       {
         "level": 5,
         "open_date": "2025-12-3",
         "min_ilvl": 1540,
         "paradise_power": 330000,
-        "boss_name": "Archbishop Wilhelm's Shadow"
+        "boss_name": "Archbishop Wilhelm's Shadow",
+        "hp": 11830310
       },
       {
         "level": 6,
         "open_date": "2025-12-10",
         "min_ilvl": 1540,
         "paradise_power": 480000,
-        "boss_name": "Ur'nil's Shadow"
+        "boss_name": "Ur'nil's Shadow",
+        "hp": 19950000
       },
       {
         "level": 7,
         "open_date": "2025-12-17",
         "min_ilvl": 1540,
         "paradise_power": 920000,
-        "boss_name": "Chromanium's Shadow"
+        "boss_name": "Chromanium's Shadow",
+        "hp": 32784143
       },
       {
         "level": 8,
         "open_date": "2025-12-24",
         "min_ilvl": 1540,
         "paradise_power": 1300000,
-        "boss_name": "Nacrasena's Shadow"
+        "boss_name": "Nacrasena's Shadow",
+        "hp": 55575300
       },
       {
         "level": 9,
         "open_date": "2025-12-31",
         "min_ilvl": 1540,
         "paradise_power": 2300000,
-        "boss_name": "Calventus's Shadow"
+        "boss_name": "Calventus's Shadow",
+        "hp": 78495526
       },
       {
         "level": 10,
         "open_date": "2026-1-7",
         "min_ilvl": 1540,
         "paradise_power": 3500000,
-        "boss_name": "Lumerus's Shadow"
+        "boss_name": "Lumerus's Shadow",
+        "hp": 189100920
       },
       {
         "level": 11,
         "open_date": "2026-1-14",
         "min_ilvl": 1540,
         "paradise_power": 4800000,
-        "boss_name": "Ur'nil's Powerful Afterimage"
+        "boss_name": "Ur'nil's Powerful Afterimage",
+        "hp": 249283562
       },
       {
         "level": 12,
         "open_date": "2026-1-21",
         "min_ilvl": 1540,
         "paradise_power": 6300000,
-        "boss_name": "Chromanium's Powerful Afterimage"
+        "boss_name": "Chromanium's Powerful Afterimage",
+        "hp": 328619725
       },
       {
         "level": 13,
         "open_date": "2026-1-28",
         "min_ilvl": 1540,
         "paradise_power": 7800000,
-        "boss_name": "Nacrasena's Powerful Afterimage"
+        "boss_name": "Nacrasena's Powerful Afterimage",
+        "hp": 433205177
       },
       {
         "level": 14,
         "open_date": "2026-2-4",
         "min_ilvl": 1540,
         "paradise_power": 9100000,
-        "boss_name": "Calventus's Powerful Afterimage"
+        "boss_name": "Calventus's Powerful Afterimage",
+        "hp": 571075637
       },
       {
         "level": 15,
         "open_date": "2026-2-11",
         "min_ilvl": 1540,
         "paradise_power": 33000000,
-        "boss_name": "Lumerus Eternal Afterimage"
+        "boss_name": "Lumerus Eternal Afterimage",
+        "hp": 2273492975
       }
     ],
     "Season 3": [
@@ -115,105 +130,120 @@
         "open_date": null,
         "min_ilvl": 1640,
         "paradise_power": 24000,
-        "boss_name": "Black Mountain Demon's Shadow"
+        "boss_name": "Black Mountain Demon's Shadow",
+        "hp": 1109430
       },
       {
         "level": 2,
         "open_date": null,
         "min_ilvl": 1640,
         "paradise_power": 40000,
-        "boss_name": "Saldone's Shadow"
+        "boss_name": "Saldone's Shadow",
+        "hp": 2089300
       },
       {
         "level": 3,
         "open_date": null,
         "min_ilvl": 1640,
         "paradise_power": 70000,
-        "boss_name": "Maneth's Shadow"
+        "boss_name": "Maneth's Shadow",
+        "hp": 3139862
       },
       {
         "level": 4,
         "open_date": "2026-3-18",
         "min_ilvl": 1640,
         "paradise_power": 150000,
-        "boss_name": "Scientist Mari's Shadow"
+        "boss_name": "Scientist Mari's Shadow",
+        "hp": 9858591
       },
       {
         "level": 5,
         "open_date": "2026-3-25",
         "min_ilvl": 1640,
         "paradise_power": 360000,
-        "boss_name": "Archbishop Wilhelm's Shadow"
+        "boss_name": "Archbishop Wilhelm's Shadow",
+        "hp": 17100000
       },
       {
         "level": 6,
         "open_date": "2026-4-1",
         "min_ilvl": 1640,
         "paradise_power": 550000,
-        "boss_name": "Ur'nil's Shadow"
+        "boss_name": "Ur'nil's Shadow",
+        "hp": 28836528
       },
       {
         "level": 7,
         "open_date": "2026-4-8",
         "min_ilvl": 1640,
         "paradise_power": 1200000,
-        "boss_name": "Chromanium's Shadow"
+        "boss_name": "Chromanium's Shadow",
+        "hp": 59657316
       },
       {
         "level": 8,
         "open_date": "2026-4-15",
         "min_ilvl": 1640,
         "paradise_power": 2100000,
-        "boss_name": "Nacrasena's Shadow"
+        "boss_name": "Nacrasena's Shadow",
+        "hp": 116113229
       },
       {
         "level": 9,
         "open_date": "2026-4-22",
         "min_ilvl": 1640,
         "paradise_power": 4500000,
-        "boss_name": "Calventus's Shadow"
+        "boss_name": "Calventus's Shadow",
+        "hp": 216194616
       },
       {
         "level": 10,
         "open_date": "2026-4-29",
         "min_ilvl": 1640,
         "paradise_power": 6800000,
-        "boss_name": "Lumerus's Shadow"
+        "boss_name": "Lumerus's Shadow",
+        "hp": 475000000
       },
       {
         "level": 11,
         "open_date": "2026-5-6",
         "min_ilvl": 1640,
         "paradise_power": 9000000,
-        "boss_name": "Ur'nil's Powerful Afterimage"
+        "boss_name": "Ur'nil's Powerful Afterimage",
+        "hp": 686583905
       },
       {
         "level": 12,
         "open_date": "2026-5-13",
         "min_ilvl": 1640,
         "paradise_power": 11000000,
-        "boss_name": "Chromanium's Powerful Afterimage"
+        "boss_name": "Chromanium's Powerful Afterimage",
+        "hp": 1088162157
       },
       {
         "level": 13,
         "open_date": "2026-5-20",
         "min_ilvl": 1640,
         "paradise_power": 14000000,
-        "boss_name": "Nacrasena's Powerful Afterimage"
+        "boss_name": "Nacrasena's Powerful Afterimage",
+        "hp": 1434477105
       },
       {
         "level": 14,
         "open_date": "2026-5-27",
         "min_ilvl": 1640,
         "paradise_power": 16000000,
-        "boss_name": "Calventus's Powerful Afterimage"
+        "boss_name": "Calventus's Powerful Afterimage",
+        "hp": 2073450240
       },
       {
         "level": 15,
         "open_date": "2026-6-3",
         "min_ilvl": 1640,
         "paradise_power": 32000000,
-        "boss_name": "Lumerus Eternal Afterimage"
+        "boss_name": "Lumerus Eternal Afterimage",
+        "hp": 6261719515
       }
     ]
   }
