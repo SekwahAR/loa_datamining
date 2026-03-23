@@ -1,0 +1,2601 @@
+{
+  "title": "Hell Floors",
+  "generated_at": "2026-03-23 19:53",
+  "modes": {
+    "Hell": [
+      {
+        "floor": 0,
+        "type": "Altar",
+        "prop": "Altar of Hell",
+        "chance": 20,
+        "lucky": []
+      },
+      {
+        "floor": 1,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 2,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 3,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 4,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 5,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 6,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 7,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 8,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 9,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 10,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 11,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 12,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 13,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 14,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 15,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 16,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 17,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 18,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 19,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 20,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 21,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 22,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 23,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 24,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 25,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 26,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 27,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 28,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 29,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 30,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 31,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 32,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 33,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 34,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 35,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 36,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 37,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 38,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 39,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 40,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 41,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 42,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 43,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 44,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 45,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 46,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 47,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 48,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 49,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 50,
+        "type": "Altar",
+        "prop": "Altar of Hell",
+        "chance": 100,
+        "lucky": []
+      },
+      {
+        "floor": 51,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 52,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 53,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 54,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 55,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 56,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 57,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 58,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 59,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 60,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 61,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 62,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 63,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 64,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 65,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 66,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 67,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 68,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 69,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 70,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 71,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 72,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 73,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 74,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 75,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 76,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 77,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 78,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 79,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 80,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 81,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 82,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 83,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 84,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 85,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 86,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 87,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 88,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 89,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 90,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 91,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 92,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 93,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 94,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 95,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 96,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 97,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 98,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 99,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 20,
+            "max": 2
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 0,
+            "max": 0
+          }
+        ]
+      },
+      {
+        "floor": 100,
+        "type": "Altar",
+        "prop": "Altar of Hell",
+        "chance": 100,
+        "lucky": []
+      }
+    ],
+    "Netherworld (Fire)": [
+      {
+        "floor": 0,
+        "type": "Altar",
+        "prop": "Anonymous Note",
+        "chance": 100,
+        "lucky": []
+      },
+      {
+        "floor": 1,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 2,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 3,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 4,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 5,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 6,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 7,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 8,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 9,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 10,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 11,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 12,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 13,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 14,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 15,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 16,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 17,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 18,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 19,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 20,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 21,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 22,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 23,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 24,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 25,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 26,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 27,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 28,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 29,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 30,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 31,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 32,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 33,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 34,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 35,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 36,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 37,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 38,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 39,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 40,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 41,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 42,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 43,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 44,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 45,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 46,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 47,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 48,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 49,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 50,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 51,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 52,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 53,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 54,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 55,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 56,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 57,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 58,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 59,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 60,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 61,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 62,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 63,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 64,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 65,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 66,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 67,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 68,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 69,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 70,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 71,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 72,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 73,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 74,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 75,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 76,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 77,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 78,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 79,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 80,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 81,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 82,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 83,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 84,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 85,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 86,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 87,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 88,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 89,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 90,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 91,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 92,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 93,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 94,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 95,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 96,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 97,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 98,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 99,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 100,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      }
+    ],
+    "Netherworld (Frost)": [
+      {
+        "floor": 0,
+        "type": "Altar",
+        "prop": "Anonymous Note",
+        "chance": 100,
+        "lucky": []
+      },
+      {
+        "floor": 1,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 2,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 3,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 4,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 5,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 6,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 7,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 8,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 9,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 10,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 11,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 12,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 13,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 14,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 15,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 16,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 17,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 18,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 19,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 20,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 21,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 22,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 23,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 24,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 25,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 26,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 27,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 28,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 29,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 30,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 31,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 32,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 33,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 34,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 35,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 36,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 37,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 38,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 39,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 40,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 41,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 42,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 43,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 44,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 45,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 46,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 47,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 48,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 49,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 50,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 51,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 52,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 53,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 54,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 55,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 56,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 57,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 58,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 59,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 60,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 61,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 62,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 63,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 64,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 65,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 66,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 67,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 68,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 69,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 70,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 71,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 72,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 73,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 74,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 75,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 76,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 77,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 78,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 79,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 80,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 81,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 82,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 83,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 84,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 85,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 86,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 87,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 88,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 89,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 90,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 91,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 92,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 93,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 94,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 95,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 96,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 97,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 98,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      },
+      {
+        "floor": 99,
+        "type": "Lucky",
+        "prop": "Essence of Hell",
+        "chance": 100,
+        "lucky": [
+          {
+            "name": "<font color='#ffd200'>\"Chest +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Upon completion, 1 additional Reward Chest appears.</font>",
+            "chance": 40,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Descent +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Descent attempt.</font>",
+            "chance": 20,
+            "max": 1
+          },
+          {
+            "name": "<font color='#ffd200'>\"Wealth+1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Changes 1 Reward Chest to a Wealth Chest.</font>",
+            "chance": 0,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Rocket Jump\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>On next Descent, move at least 16 floors.</font>",
+            "chance": 20,
+            "max": 0
+          },
+          {
+            "name": "<font color='#ffd200'>\"Life +1\"</font> <font color='#f3e4bc'>effect acquired.</font>\n<font color='#84aecb'>Adds 1 Resurrection count.</font>",
+            "chance": 20,
+            "max": 1
+          }
+        ]
+      },
+      {
+        "floor": 100,
+        "type": null,
+        "prop": null,
+        "chance": null,
+        "lucky": []
+      }
+    ]
+  }
+}
