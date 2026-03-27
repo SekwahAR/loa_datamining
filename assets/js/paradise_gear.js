@@ -14,3 +14,21 @@ function showSeason(seasonId) {
         }
     });
 }
+
+function toggleRow(el) {
+    const td = el.closest("td");
+    if (!td) return;
+
+    const container = td.querySelector(".resonance-container");
+    if (!container) return;
+
+    container.classList.toggle("active");
+
+    const icon = el.querySelector(".expand-icon");
+
+    if (container.classList.contains("active")) {
+        icon.textContent = "▼ Collapse";
+    } else {
+        icon.textContent = "▶ Expand";
+    }
+}

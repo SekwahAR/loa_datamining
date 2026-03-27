@@ -1,6 +1,6 @@
 {
   "title": "Stat Coefficients",
-  "generated_at": "2026-02-08 23:20",
+  "generated_at": "2026-03-27 04:15",
   "classes": {
     "101": {
       "id": 101,
@@ -698,7 +698,7 @@
       },
       {
         "base_stat": "Specialization",
-        "stat": "Sync Skill Damage",
+        "stat": "Sync-type Skill Damage",
         "coef": 0.64
       }
     ],

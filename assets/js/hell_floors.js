@@ -9,15 +9,8 @@ function showTab(id) {
         .classList.add('active');
 }
 
-let filterOn = false;
-
-function toggleSpecial() {
-    filterOn = !filterOn;
-
+function toggleSpecial(enabled) {
     document.querySelectorAll("tr.normal-row").forEach(row => {
-        row.style.display = filterOn ? "none" : "";
+        row.style.display = enabled ? "none" : "table-row";
     });
-
-    const btn = document.querySelector(".filter-btn");
-    btn.textContent = filterOn ? "Show All Floors" : "Show Specials Only";
 }
