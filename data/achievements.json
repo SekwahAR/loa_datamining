@@ -1,7 +1,7 @@
 {
-  "game_version": "3.17.0.1,1466",
-  "data_built_at": "2026-03-11 15:30",
-  "achievement_count": 2187,
+  "game_version": "3.18.0.1,1491",
+  "data_built_at": "2026-04-15 13:32",
+  "achievement_count": 2208,
   "achievements": [
     {
       "id": 10014010,
@@ -1222,6 +1222,37 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "id": 10014013,
+      "category1": "Achievements",
+      "category2": "Achievements",
+      "category_key": {
+        "main": 1,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "rare",
+      "name": "Sidereal Elgic Power II",
+      "description": "Infuse Elgic into Sidereal Weapon",
+      "icon_prefix": "achieve_16",
+      "icon_index": 246,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Infuse Elgic Level 3 into Sidereal Weapon",
+          "count": 1,
+          "threshold": 3,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
     },
     {
       "id": 1010003,
@@ -19918,7 +19949,7 @@
           "obj_quest_id": 4500432
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6070185,
@@ -19949,7 +19980,7 @@
           "obj_quest_id": 4500428
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6070186,
@@ -19980,7 +20011,7 @@
           "obj_quest_id": 4500008
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6070187,
@@ -20011,7 +20042,7 @@
           "obj_quest_id": 4500433
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6070188,
@@ -20042,7 +20073,7 @@
           "obj_quest_id": 6005102
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 1030022,
@@ -55993,6 +56024,166 @@
       "is_new": false
     },
     {
+      "id": 6010101,
+      "category1": "Wartorn",
+      "category2": "Haal's Hourglass",
+      "category_key": {
+        "main": 5,
+        "sub": 15
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Invited to the Hourglass",
+      "description": "Enter Haal's Hourglass",
+      "icon_prefix": "achieve_17",
+      "icon_index": 48,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter Haal's Hourglass for the first time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6010102,
+      "category1": "Wartorn",
+      "category2": "Haal's Hourglass",
+      "category_key": {
+        "main": 5,
+        "sub": 15
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Hourglass Expert",
+      "description": "Clear Haal's Hourglass",
+      "icon_prefix": "achieve_17",
+      "icon_index": 49,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear Haal's Hourglass for the first time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6010103,
+      "category1": "Wartorn",
+      "category2": "Haal's Hourglass",
+      "category_key": {
+        "main": 5,
+        "sub": 15
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Sand and Treasure",
+      "description": "Clear a hidden stage in Haal's Hourglass",
+      "icon_prefix": "achieve_17",
+      "icon_index": 51,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear a hidden stage in Haal's Hourglass 1 time(s)",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Clear a hidden stage in Haal's Hourglass 2 time(s)",
+          "count": 2,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Clear a hidden stage in Haal's Hourglass 3 time(s)",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6010111,
+      "category1": "Wartorn",
+      "category2": "Haal's Hourglass",
+      "category_key": {
+        "main": 5,
+        "sub": 15
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Haal's Hourglass: Level 1",
+      "description": "Clear Haal's Hourglass Level 1 or higher",
+      "icon_prefix": "achieve_17",
+      "icon_index": 50,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear Haal's Hourglass Level 1 or higher 1 time(s)",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Clear Haal's Hourglass Level 1 or higher 25 time(s)",
+          "count": 25,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
       "id": 6040000,
       "category1": "Wartorn",
       "category2": "Guardian Raid",
@@ -56358,13 +56549,13 @@
       "hidden": false,
       "rarity": "common",
       "name": "Third Eye",
-      "description": "[Common] Clear Guardian Raids without using Flares",
+      "description": "[Common] Clear a Guardian Raid without using Shadow Skills",
       "icon_prefix": "achieve_07",
       "icon_index": 8,
       "objectives": [
         {
           "order": 1,
-          "text": "Clear 10 Guardian Raids without using Flares",
+          "text": "Clear 10 Guardian Raids without using Shadow Skills",
           "count": 10,
           "threshold": 0,
           "time": 0,
@@ -56376,7 +56567,7 @@
         },
         {
           "order": 2,
-          "text": "Clear 100 Guardian Raids without using Flares",
+          "text": "Clear 100 Guardian Raids without using Shadow Skills",
           "count": 100,
           "threshold": 0,
           "time": 0,
@@ -56388,7 +56579,7 @@
         },
         {
           "order": 3,
-          "text": "Clear 250 Guardian Raids without using Flares",
+          "text": "Clear 250 Guardian Raids without using Shadow Skills",
           "count": 250,
           "threshold": 0,
           "time": 0,
@@ -62148,6 +62339,49 @@
       "is_new": false
     },
     {
+      "id": 6043010,
+      "category1": "Wartorn",
+      "category2": "Guardian Raid",
+      "category_key": {
+        "main": 5,
+        "sub": 5
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Guardian Raid: Shade Level 1",
+      "description": "Guardian Raid: Clear Guardian's Shade Level 1 or higher",
+      "icon_prefix": "achieve_17",
+      "icon_index": 46,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat a Guardian in Guardian's Shade Level 1 or higher 1 time(s)",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Defeat a Guardian in Guardian's Shade Level 1 or higher 25 time(s)",
+          "count": 25,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
       "id": 4030000,
       "category1": "Legacy",
       "category2": "All",
@@ -65850,6 +66084,104 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "id": 6110121,
+      "category1": "Wartorn",
+      "category2": "Chaos Rift",
+      "category_key": {
+        "main": 5,
+        "sub": 14
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Rift Torrent",
+      "description": "Gain the Rift Torrent or Rift Tempest effect in Chaos Rift",
+      "icon_prefix": "achieve_17",
+      "icon_index": 52,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Gain Rift Torrent or Rift Tempest 6 times",
+          "count": 6,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Gain Rift Torrent or Rift Tempest 60 times",
+          "count": 60,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 3,
+          "text": "Gain Rift Torrent or Rift Tempest 600 times",
+          "count": 600,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6110130,
+      "category1": "Wartorn",
+      "category2": "Chaos Rift",
+      "category_key": {
+        "main": 5,
+        "sub": 14
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Chaos Rift: Abyssal Reversal 1",
+      "description": "Chaos Rift: Clear Abyssal Reversal 1 or higher",
+      "icon_prefix": "achieve_17",
+      "icon_index": 45,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear Chaos Rift: Abyssal Reversal 1 or higher 1 time",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 2,
+          "text": "Clear Chaos Rift: Abyssal Reversal 1 or higher 25 times",
+          "count": 25,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
     },
     {
       "id": 6110500,
@@ -77356,6 +77688,493 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "id": 6130499,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Back to Shushire",
+      "description": "Enter Sanctum of Frost",
+      "icon_prefix": "achieve_10",
+      "icon_index": 38,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter Sanctum of Frost",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130500,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Witch of Agony",
+      "description": "Defeat Witch of Agony, Serca",
+      "icon_prefix": "achieve_17",
+      "icon_index": 36,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Witch of Agony, Serca 1 time(s)",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        },
+        {
+          "order": 2,
+          "text": "Defeat Witch of Agony, Serca 5 time(s)",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        },
+        {
+          "order": 3,
+          "text": "Defeat Witch of Agony, Serca 10 time(s)",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130501,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Spiky Spiky",
+      "description": "Defeat Witch of Agony, Serca without getting hit by the spikes on the ground",
+      "icon_prefix": "achieve_17",
+      "icon_index": 37,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Witch of Agony, Serca without getting hit by the spikes on the ground",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130502,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "I Can Do This All Day",
+      "description": "Perfect Block all attacks without getting hit by certain skills of Witch of Agony, Serca",
+      "icon_prefix": "achieve_17",
+      "icon_index": 38,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Perfect Block all attacks without getting hit by certain skills of Witch of Agony, Serca",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130503,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Boom?",
+      "description": "Defeat Witch of Agony, Serca without getting hit by the bombs",
+      "icon_prefix": "achieve_14",
+      "icon_index": 170,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Witch of Agony, Serca without getting hit by the bombs",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130504,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Brawl!",
+      "description": "Enter the Brawl",
+      "icon_prefix": "achieve_17",
+      "icon_index": 39,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter the Brawl",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460000,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130510,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Shadow of Agony",
+      "description": "Defeat Corvus Tul Rak",
+      "icon_prefix": "achieve_17",
+      "icon_index": 40,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Corvus Tul Rak 1 time(s)",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112402
+        },
+        {
+          "order": 2,
+          "text": "Defeat Corvus Tul Rak 5 time(s)",
+          "count": 5,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112402
+        },
+        {
+          "order": 3,
+          "text": "Defeat Corvus Tul Rak 10 time(s)",
+          "count": 10,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112402
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130511,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Let the Game Begin",
+      "description": "Enter a particular attack phase while fighting Corvus Tul Rak",
+      "icon_prefix": "achieve_17",
+      "icon_index": 41,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter a particular attack phase while fighting Corvus Tul Rak",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130512,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Keen-Eyed",
+      "description": "Counter a particular attack phase of Corvus Tul Rak",
+      "icon_prefix": "achieve_15",
+      "icon_index": 60,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Counter a particular attack phase of Corvus Tul Rak",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130513,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "uncommon",
+      "name": "Weak Point Exploiter",
+      "description": "Destroy all weak points of Corvus Tul Rak at once",
+      "icon_prefix": "achieve_17",
+      "icon_index": 42,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Destroy all weak points of Corvus Tul Rak at once",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130514,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Unparalleled Teamwork",
+      "description": "Enter the final level of the Brawl",
+      "icon_prefix": "achieve_17",
+      "icon_index": 47,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Enter the final level of the Brawl",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130515,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "rare",
+      "name": "Invincible Raid: Witch of Agony, Serca",
+      "description": "Clear [Witch of Agony, Serca] without quitting and without anyone dying",
+      "icon_prefix": "achieve_06",
+      "icon_index": 0,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "[Normal] Reach and clear the final gate without quitting and without anyone dying",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 1,
+          "text": "[Hard] Reach and clear the final gate without quitting and without anyone dying",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        },
+        {
+          "order": 1,
+          "text": "[Nightmare] Reach and clear the final gate without quitting and without anyone dying",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 460050,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "id": 6130900,
+      "category1": "Raid",
+      "category2": "Shadow Raid",
+      "category_key": {
+        "main": 6,
+        "sub": 6
+      },
+      "enabled": true,
+      "hidden": false,
+      "rarity": "common",
+      "name": "Primordial Being I",
+      "description": "Clear [Witch of Agony, Serca] on Nightmare Difficulty within the first week of release",
+      "icon_prefix": "achieve_17",
+      "icon_index": 53,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Clear [Witch of Agony, Serca] Gate 1 on Nightmare Difficulty within the first week of release",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112401
+        },
+        {
+          "order": 1,
+          "text": "Clear [Witch of Agony, Serca] Gate 2 on Nightmare Difficulty within the first week of release",
+          "count": 1,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 0,
+          "obj_skill_id": 0,
+          "obj_quest_id": 9112402
+        }
+      ],
+      "is_new": true
     },
     {
       "id": 7010000,
@@ -98267,7 +99086,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000024,
@@ -98298,7 +99117,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000025,
@@ -98329,7 +99148,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000026,
@@ -98360,7 +99179,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000027,
@@ -98391,7 +99210,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 80000028,
@@ -98422,7 +99241,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     }
   ]
 }
