@@ -1,57 +1,114 @@
-body { background:#222; color:#fff; font-family:Arial }
-.tablink { background:#444; color:#fff; border:none; padding:6px 10px; margin:2px; cursor:pointer }
-.tablink:hover { background:#666 }
-table { border-collapse:collapse; width:max-content; min-width:100% }
-th, td { border:1px solid #555; padding:6px 8px; vertical-align:top }
-th { background:#333; text-align:center; vertical-align:middle; height:2.8em }
-.table-wrap { overflow-x:auto; max-width:100% }
+/* ---------- Table Overrides ---------- */
+
+/* Allow both horizontal + vertical scroll */
+.reward-table {
+  overflow: auto;
+}
+
+.table-wrap {
+  overflow: visible;
+}
+
+/* This page needs wider tables than base */
+table {
+  width: max-content;
+  min-width: 100%;
+}
+
+
+/* ---------- Sticky First Column ---------- */
+
+th:first-child,
+td:first-child {
+  position: sticky;
+  left: 0;
+  background: #2a2a2a;
+  z-index: 2;
+}
+
+th:first-child {
+  z-index: 3;
+}
+
+
+/* ---------- Container Blocks ---------- */
 
 .container-block {
-    padding:2px 0;
-    margin:0;
+  padding: 2px 0;
+  margin: 0;
 }
 
 .container-header {
-    font-weight:600;
-}
-
-.toggle-btn {
-    margin-left:6px;
-    font-size:10px;
-    padding:2px 6px;
-    background:#444;
-    color:#eee;
-    border:none;
-    border-radius:4px;
+  font-weight: 600;
 }
 
 .container-details {
-    margin-top:4px;
-    padding:4px 6px;
-    background:#2a2a2a;
-    border-left:2px solid #666;
+  margin-top: 4px;
+  padding: 4px 6px;
+  background: #2a2a2a;
+  border-left: 2px solid #666;
 }
 
-.hidden { display:none }
-img { vertical-align:middle; margin-right:2px }
+
+/* ---------- Toggle Button ---------- */
+
+.toggle-btn {
+  margin-left: 6px;
+  font-size: 10px;
+  padding: 2px 6px;
+  background: #444;
+  color: #eee;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.toggle-btn:hover {
+  background: #666;
+}
+
+
+/* ---------- Header / Filters ---------- */
 
 .header-bar {
-  display:flex;
-  align-items:center;
-  gap:16px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
-
 
 .filters select {
-  background:#333;
-  color:#fff;
-  border:1px solid #555;
-  margin-left:4px;
+  background: #333;
+  color: #fff;
+  border: 1px solid #555;
+  margin-left: 4px;
 }
+
+.filters {
+  align-self: center;
+}
+
+/* ---------- Scroll Hint ---------- */
 
 .scroll-hint {
   font-size: 16px;
   color: #aaa;
   margin: 4px 0 8px 2px;
   user-select: none;
+}
+
+
+/* ---------- Icons ---------- */
+
+img {
+  vertical-align: middle;
+  margin-right: 2px;
+}
+
+/* ---------- Text Alignment ---------- */
+td {
+  text-align: left;
+}
+
+th {
+  text-align: center;
 }
