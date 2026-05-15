@@ -1,7 +1,7 @@
 {
-  "game_version": "3.18.0.1,1491",
-  "data_built_at": "2026-04-15 13:32",
-  "achievement_count": 2208,
+  "game_version": "3.19.0.2,455",
+  "data_built_at": "2026-05-15 15:40",
+  "achievement_count": 2209,
   "achievements": [
     {
       "id": 10014010,
@@ -1252,7 +1252,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 1010003,
@@ -56052,7 +56052,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6010102,
@@ -56083,7 +56083,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6010103,
@@ -56138,7 +56138,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6010111,
@@ -56181,7 +56181,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6040000,
@@ -62339,6 +62339,37 @@
       "is_new": false
     },
     {
+      "id": 6042137,
+      "category1": "Hidden",
+      "category2": "All",
+      "category_key": {
+        "main": 9,
+        "sub": 1
+      },
+      "enabled": true,
+      "hidden": true,
+      "rarity": "common",
+      "name": "Perfectly Argos",
+      "description": "Fend off the ambush from Snowflake Argos",
+      "icon_prefix": "achieve_13",
+      "icon_index": 29,
+      "objectives": [
+        {
+          "order": 1,
+          "text": "Defeat Snowflake Argos 3 times",
+          "count": 3,
+          "threshold": 0,
+          "time": 0,
+          "level": 0,
+          "item_level": 0,
+          "obj_npc_id": 634073,
+          "obj_skill_id": 0,
+          "obj_quest_id": 0
+        }
+      ],
+      "is_new": true
+    },
+    {
       "id": 6043010,
       "category1": "Wartorn",
       "category2": "Guardian Raid",
@@ -62379,7 +62410,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 4030000,
@@ -66138,7 +66169,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6110130,
@@ -66181,7 +66212,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6110500,
@@ -77718,7 +77749,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130500,
@@ -77773,7 +77804,7 @@
           "obj_quest_id": 9112401
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130501,
@@ -77804,7 +77835,7 @@
           "obj_quest_id": 9112401
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130502,
@@ -77835,7 +77866,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130503,
@@ -77866,7 +77897,7 @@
           "obj_quest_id": 9112401
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130504,
@@ -77897,7 +77928,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130510,
@@ -77952,7 +77983,7 @@
           "obj_quest_id": 9112402
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130511,
@@ -77983,7 +78014,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130512,
@@ -78014,7 +78045,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130513,
@@ -78045,7 +78076,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130514,
@@ -78076,7 +78107,7 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130515,
@@ -78131,18 +78162,18 @@
           "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 6130900,
-      "category1": "Raid",
-      "category2": "Shadow Raid",
+      "category1": "Legacy",
+      "category2": "All",
       "category_key": {
-        "main": 6,
-        "sub": 6
+        "main": 10,
+        "sub": 1
       },
       "enabled": true,
-      "hidden": false,
+      "hidden": true,
       "rarity": "common",
       "name": "Primordial Being I",
       "description": "Clear [Witch of Agony, Serca] on Nightmare Difficulty within the first week of release",
@@ -78153,28 +78184,28 @@
           "order": 1,
           "text": "Clear [Witch of Agony, Serca] Gate 1 on Nightmare Difficulty within the first week of release",
           "count": 1,
-          "threshold": 0,
+          "threshold": 999999999,
           "time": 0,
           "level": 0,
           "item_level": 0,
           "obj_npc_id": 0,
           "obj_skill_id": 0,
-          "obj_quest_id": 9112401
+          "obj_quest_id": 0
         },
         {
           "order": 1,
           "text": "Clear [Witch of Agony, Serca] Gate 2 on Nightmare Difficulty within the first week of release",
           "count": 1,
-          "threshold": 0,
+          "threshold": 999999999,
           "time": 0,
           "level": 0,
           "item_level": 0,
           "obj_npc_id": 0,
           "obj_skill_id": 0,
-          "obj_quest_id": 9112402
+          "obj_quest_id": 0
         }
       ],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": 7010000,
