@@ -1,9 +1,26 @@
 // ---------------- GLOBAL ----------------
-window.toggleDetails = function (btn) {
-  const details = btn.nextElementSibling;
-  details.classList.toggle('hidden');
-  btn.textContent = details.classList.contains('hidden') ? 'Show' : 'Hide';
-};
+document.addEventListener("click", e => {
+
+    const btn = e.target.closest(".toggle-btn");
+    if (!btn) return;
+
+    const details = btn.nextElementSibling;
+
+    if (!details.dataset.loaded) {
+
+        details.innerHTML += details.dataset.content;
+
+        delete details.dataset.content;
+        details.dataset.loaded = "1";
+    }
+
+    details.classList.toggle("hidden");
+
+    btn.textContent =
+        details.classList.contains("hidden")
+            ? "Show"
+            : "Hide";
+});
 
 // ---------------- INIT ----------------
 const tables = [...document.querySelectorAll('.reward-table')];
