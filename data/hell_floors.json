@@ -1,6 +1,6 @@
 {
   "title": "Hell Floors",
-  "generated_at": "2026-03-27 04:15",
+  "generated_at": "2026-07-15 13:40",
   "modes": {
     "Hell": [
       {
@@ -8,77 +8,88 @@
         "type": "Altar",
         "prop": "Altar of Hell",
         "chance": 20,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 1,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 2,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 3,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 4,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 5,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 6,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 7,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 8,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 9,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 10,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 11,
@@ -111,77 +122,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 12,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 13,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 14,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 15,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 16,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 17,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 18,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 19,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 20,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 21,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 22,
@@ -214,77 +236,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 23,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 24,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 25,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 26,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 27,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 28,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 29,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 30,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 31,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 32,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 33,
@@ -317,77 +350,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 34,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 35,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 36,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 37,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 38,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 39,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 40,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 41,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 42,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 43,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 44,
@@ -420,77 +464,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 45,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 46,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 47,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 48,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 49,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 50,
         "type": "Altar",
         "prop": "Altar of Hell",
         "chance": 100,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 51,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 52,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 53,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 54,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 55,
@@ -523,77 +578,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 56,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 57,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 58,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 59,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 60,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 61,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 62,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 63,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 64,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 65,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 66,
@@ -626,77 +692,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 67,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 68,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 69,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 70,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 71,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 72,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 73,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 74,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 75,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 76,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 77,
@@ -729,77 +806,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 78,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 79,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 80,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 81,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 82,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 83,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 84,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 85,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 86,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 87,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 88,
@@ -832,77 +920,88 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 89,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 90,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 63
       },
       {
         "floor": 91,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 92,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 93,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 94,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 95,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 96,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 97,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 98,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 99,
@@ -935,14 +1034,16 @@
             "chance": 0,
             "max": 0
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 100,
         "type": "Altar",
         "prop": "Altar of Hell",
         "chance": 100,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       }
     ],
     "Netherworld (Fire)": [
@@ -951,154 +1052,176 @@
         "type": "Altar",
         "prop": "Anonymous Note",
         "chance": 100,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 1,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 2,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 3,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 4,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 5,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 6,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 7,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 8,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 9,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 10,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 11,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 12,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 13,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 14,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 15,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 16,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 17,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 18,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 19,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 20,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 21,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 22,
@@ -1131,154 +1254,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 23,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 24,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 25,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 26,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 27,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 28,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 29,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 30,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 31,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 32,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 33,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 34,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 35,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 36,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 37,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 38,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 39,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 40,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 41,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 42,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 43,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 44,
@@ -1311,154 +1456,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 45,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 46,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 47,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 48,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 49,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 50,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 51,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 52,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 53,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 54,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 55,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 56,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 57,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 58,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 59,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 60,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 61,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 62,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 63,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 64,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 65,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 66,
@@ -1491,154 +1658,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 67,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 68,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 69,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 70,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 71,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 72,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 73,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 74,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 75,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 76,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 77,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 78,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 79,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 80,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 81,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 82,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 83,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 84,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 85,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 86,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 87,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 88,
@@ -1671,91 +1860,104 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 89,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 90,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 91,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 92,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 93,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 94,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 95,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 96,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 97,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 98,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 99,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 100,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       }
     ],
     "Netherworld (Frost)": [
@@ -1764,77 +1966,88 @@
         "type": "Altar",
         "prop": "Anonymous Note",
         "chance": 100,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 1,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 2,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 3,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 4,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 5,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 6,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 7,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 8,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 9,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 10,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 11,
@@ -1867,154 +2080,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 12,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 13,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 14,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 15,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 16,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 17,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 18,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 19,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 20,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 21,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 22,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 23,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 24,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 25,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 26,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 27,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 28,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 29,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 30,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 31,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 32,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 33,
@@ -2047,154 +2282,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 34,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 35,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 36,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 37,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 38,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 39,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 40,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 41,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 42,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 43,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 44,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 45,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 46,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 47,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 48,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 49,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 50,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 51,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 52,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 53,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 54,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 55,
@@ -2227,154 +2484,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 56,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 57,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 58,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 59,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 60,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 61,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 62,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 63,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 64,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 65,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 66,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 67,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 68,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 69,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 70,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 71,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 72,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 73,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 74,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 75,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 76,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 77,
@@ -2407,154 +2686,176 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 78,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 79,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 80,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 81,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 82,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 83,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 84,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 85,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 86,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 87,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 88,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 89,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 90,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 91,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 92,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 93,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 94,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 95,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 96,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 97,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 98,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       },
       {
         "floor": 99,
@@ -2587,14 +2888,16 @@
             "chance": 20,
             "max": 1
           }
-        ]
+        ],
+        "gamble": 0
       },
       {
         "floor": 100,
         "type": null,
         "prop": null,
         "chance": null,
-        "lucky": []
+        "lucky": [],
+        "gamble": 0
       }
     ]
   }

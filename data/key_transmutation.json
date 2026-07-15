@@ -1,6 +1,6 @@
 {
   "title": "Hell Key Transmutation",
-  "generated_at": "2026-03-27 04:15",
+  "generated_at": "2026-07-15 13:30",
   "keys": [
     {
       "input": {
@@ -1296,6 +1296,528 @@
         {
           "id": 659000104,
           "name": "Netherworld Frost Key V",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000111,
+        "name": "Hell Key of Destiny V",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 2,
+          "key": "rare",
+          "name": "Rare",
+          "color": "#00B0FA"
+        }
+      },
+      "results": [
+        {
+          "id": 659000114,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 0,
+            "key": "common",
+            "name": "Normal",
+            "color": "#FFFFFF"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000115,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 1,
+            "key": "uncommon",
+            "name": "Uncommon",
+            "color": "#8DF901"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000117,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000118,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000121,
+          "name": "Netherworld Flame Key V",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000124,
+          "name": "Netherworld Frost Key V",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000112,
+        "name": "Hell Key of Destiny V",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 3,
+          "key": "epic",
+          "name": "Epic",
+          "color": "#BA00F9"
+        }
+      },
+      "results": [
+        {
+          "id": 659000115,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 1,
+            "key": "uncommon",
+            "name": "Uncommon",
+            "color": "#8DF901"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000116,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000118,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000119,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 5,
+            "key": "relic",
+            "name": "Relic",
+            "color": "#FF6000"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000122,
+          "name": "Netherworld Flame Key V",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000125,
+          "name": "Netherworld Frost Key V",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000113,
+        "name": "Hell Key of Destiny V",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 4,
+          "key": "legend",
+          "name": "Legendary",
+          "color": "#F99200"
+        }
+      },
+      "results": [
+        {
+          "id": 659000116,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000117,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000119,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 5,
+            "key": "relic",
+            "name": "Relic",
+            "color": "#FF6000"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000120,
+          "name": "Hell Key of Destiny V",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 6,
+            "key": "ancient",
+            "name": "Ancient",
+            "color": "#E3C7A1"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000123,
+          "name": "Netherworld Flame Key V",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000126,
+          "name": "Netherworld Frost Key V",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000153,
+        "name": "Hell Key of Destiny VI",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 2,
+          "key": "rare",
+          "name": "Rare",
+          "color": "#00B0FA"
+        }
+      },
+      "results": [
+        {
+          "id": 659000156,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 0,
+            "key": "common",
+            "name": "Normal",
+            "color": "#FFFFFF"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000157,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 1,
+            "key": "uncommon",
+            "name": "Uncommon",
+            "color": "#8DF901"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000159,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000160,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000163,
+          "name": "Netherworld Flame Key VI",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000166,
+          "name": "Netherworld Frost Key VI",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000154,
+        "name": "Hell Key of Destiny VI",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 3,
+          "key": "epic",
+          "name": "Epic",
+          "color": "#BA00F9"
+        }
+      },
+      "results": [
+        {
+          "id": 659000157,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 1,
+            "key": "uncommon",
+            "name": "Uncommon",
+            "color": "#8DF901"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000158,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000160,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000161,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 5,
+            "key": "relic",
+            "name": "Relic",
+            "color": "#FF6000"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000164,
+          "name": "Netherworld Flame Key VI",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000167,
+          "name": "Netherworld Frost Key VI",
+          "icon": "../assets/icons/use/Use_13_60.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 20
+        }
+      ]
+    },
+    {
+      "input": {
+        "id": 659000155,
+        "name": "Hell Key of Destiny VI",
+        "icon": "../assets/icons/use/Use_13_84.png",
+        "grade": {
+          "id": 4,
+          "key": "legend",
+          "name": "Legendary",
+          "color": "#F99200"
+        }
+      },
+      "results": [
+        {
+          "id": 659000158,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 2,
+            "key": "rare",
+            "name": "Rare",
+            "color": "#00B0FA"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000159,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 3,
+            "key": "epic",
+            "name": "Epic",
+            "color": "#BA00F9"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000161,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 5,
+            "key": "relic",
+            "name": "Relic",
+            "color": "#FF6000"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000162,
+          "name": "Hell Key of Destiny VI",
+          "icon": "../assets/icons/use/Use_13_58.png",
+          "grade": {
+            "id": 6,
+            "key": "ancient",
+            "name": "Ancient",
+            "color": "#E3C7A1"
+          },
+          "chance": 15
+        },
+        {
+          "id": 659000165,
+          "name": "Netherworld Flame Key VI",
+          "icon": "../assets/icons/use/Use_13_59.png",
+          "grade": {
+            "id": 4,
+            "key": "legend",
+            "name": "Legendary",
+            "color": "#F99200"
+          },
+          "chance": 20
+        },
+        {
+          "id": 659000168,
+          "name": "Netherworld Frost Key VI",
           "icon": "../assets/icons/use/Use_13_60.png",
           "grade": {
             "id": 4,
