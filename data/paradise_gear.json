@@ -1,6 +1,6 @@
 {
   "title": "Paradise Gear Effects",
-  "generated_at": "2026-03-27 04:15",
+  "generated_at": "2026-07-17 17:05",
   "seasons": {
     "Season 1": [
       {
@@ -674,7 +674,7 @@
       {
         "primary_key": 20104,
         "skill_id": 70122,
-        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[White Flower Garden II]</FONT></div>\n        <div class=\"orb-detail\">[Nature] Condenses the surrounding chill to cause a flower of ice to bloom.\n\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_damage.png'>: Deals <FONT COLOR='#ffbb00'>296000/333000/370000/407000/444000</FONT> Water Phy. Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_time.png'>: Cooldown <FONT COLOR='#5dbe64'>14.4/13.2/12/10.8/9.6s</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_space.png'>: Cast Area <FONT COLOR='#5dbe64'>70/85/100/150/200%</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_emit.png'>: <FONT COLOR='#5dbe64'>10/20/30/40/50%</FONT> chance to trigger an additional attack dealing <FONT COLOR='#5dbe64'>30/50/70/85/100%</FONT> additional Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_control.png'>: Applies Chill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT> to hit targets\nChill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Target's Phy. Damage Resistance -<FONT COLOR='#5dbe64'>2/3/5/7.5/10%</FONT>\nIf the target is affected by Humidity, applies Frostburst <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>.\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Nature] and [Projection] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>\n        ",
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[White Flower Garden II]</FONT></div>\n        <div class=\"orb-detail\">[Nature] Condenses the surrounding chill to cause a flower of ice to bloom.\n\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_damage.png'>: Deals <FONT COLOR='#ffbb00'>296000/333000/370000/407000/444000</FONT> Water Phy. Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_time.png'>: Cooldown <FONT COLOR='#5dbe64'>14.4/13.2/12/10.8/9.6s</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_space.png'>: Cast Area <FONT COLOR='#5dbe64'>70/85/100/150/200%</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_emit.png'>: <FONT COLOR='#5dbe64'>10/20/30/40/50%</FONT> chance to trigger an additional attack dealing <FONT COLOR='#5dbe64'>30/50/70/85/100%</FONT> additional Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_control.png'>: Applies Chill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT> to hit targets\nChill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Target's Phy. Damage Resistance -<FONT COLOR='#5dbe64'>10/12/15/18/20%</FONT>\nIf the target is affected by Humidity, applies Frostburst <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>.\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Nature] and [Projection] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>\n        ",
         "resonance": ""
       },
       {
@@ -782,7 +782,7 @@
       {
         "primary_key": 20204,
         "skill_id": 70222,
-        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[White Flower Garden III]</FONT></div>\n        <div class=\"orb-detail\">[Nature] Condenses the surrounding chill to cause a flower of ice to bloom.\n\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_damage.png'>: Deals <FONT COLOR='#ffbb00'>592000/666000/740000/814000/888000</FONT> Water Phy. Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_time.png'>: Cooldown <FONT COLOR='#5dbe64'>14.4/13.2/12/10.8/9.6s</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_space.png'>: Cast Area <FONT COLOR='#5dbe64'>70/85/100/150/200%</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_emit.png'>: <FONT COLOR='#5dbe64'>10/20/30/40/50%</FONT> chance to trigger an additional attack dealing <FONT COLOR='#5dbe64'>30/50/70/85/100%</FONT> additional Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_control.png'>: Applies Chill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT> to hit targets\nChill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Target's Phy. Damage Resistance -<FONT COLOR='#5dbe64'>2/3/5/7.5/10%</FONT>\nIf the target is affected by Humidity, applies Frostburst <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>.\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Nature] and [Projection] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>\n        ",
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[White Flower Garden III]</FONT></div>\n        <div class=\"orb-detail\">[Nature] Condenses the surrounding chill to cause a flower of ice to bloom.\n\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_damage.png'>: Deals <FONT COLOR='#ffbb00'>592000/666000/740000/814000/888000</FONT> Water Phy. Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_time.png'>: Cooldown <FONT COLOR='#5dbe64'>14.4/13.2/12/10.8/9.6s</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_space.png'>: Cast Area <FONT COLOR='#5dbe64'>70/85/100/150/200%</FONT>\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_emit.png'>: <FONT COLOR='#5dbe64'>10/20/30/40/50%</FONT> chance to trigger an additional attack dealing <FONT COLOR='#5dbe64'>30/50/70/85/100%</FONT> additional Damage\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_control.png'>: Applies Chill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT> to hit targets\nChill <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>: Target's Phy. Damage Resistance -<FONT COLOR='#5dbe64'>10/12/15/18/20%</FONT>\nIf the target is affected by Humidity, applies Frostburst <FONT COLOR='#5dbe64'>C/B/A/S/SS</FONT>.\n<br><img class='orb-icon' src='../assets/icons/emoticon_trinity_orb_specific.png'>: After casting, [Nature] and [Projection] Effect Damage +<FONT COLOR='#5dbe64'>1.6/3.2/4.8/6.4/8%</FONT></div>\n        ",
         "resonance": ""
       },
       {
@@ -1091,217 +1091,435 @@
         "primary_key": 30031,
         "skill_id": 70031,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Shadowcleaver I]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">266,000 / 292,600 / 319,200 / 345,800 / 372,400 Mag. Damage. Cooldown: 8.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">372,400 / 412,300 / 452,200 / 492,100 / 532,000 Mag. Damage. Cooldown: 8.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">532,000 / 598,500 / 665,000 / 731,500 / 798,000 Mag. Damage. Cooldown: 8.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30032,
         "skill_id": 70032,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Broadwave I]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">300,000 / 330,000 / 360,000 / 390,000 / 420,000 Phy. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">420,000 / 465,000 / 510,000 / 555,000 / 600,000 Phy. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">600,000 / 675,000 / 750,000 / 825,000 / 900,000 Phy. Damage. Cooldown: 10.8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30033,
         "skill_id": 70033,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Greenward I]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">400,000 / 440,000 / 480,000 / 520,000 / 560,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">560,000 / 620,000 / 680,000 / 740,000 / 800,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">800,000 / 900,000 / 1,000,000 / 1,100,000 / 1,200,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30034,
         "skill_id": 70034,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Sandroll I]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">200,000 / 220,000 / 240,000 / 260,000 / 280,000 Phy. Damage/s. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">280,000 / 310,000 / 340,000 / 370,000 / 400,000 Phy. Damage/s. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">400,000 / 450,000 / 500,000 / 550,000 / 600,000 Phy. Damage/s. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30035,
         "skill_id": 70035,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Thunderforge I]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">432,000 / 475,200 / 518,400 / 561,600 / 604,800 Mag. Damage. Cooldown: 15.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">604,800 / 669,600 / 734,400 / 799,200 / 864,000 Mag. Damage. Cooldown: 15.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">864,000 / 972,000 / 1,080,000 / 1,188,000 / 1,296,000 Mag. Damage. Cooldown: 15.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30036,
         "skill_id": 70036,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Frostcarver I]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">372,000 / 409,200 / 446,400 / 483,600 / 520,800 Phy. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">520,800 / 576,600 / 632,400 / 688,200 / 744,000 Phy. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">744,000 / 837,000 / 930,000 / 1,023,000 / 1,116,000 Phy. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30131,
         "skill_id": 70131,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Shadowcleaver II]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">798,000 / 877,800 / 957,600 / 1,037,400 / 1,117,200 Mag. Damage. Cooldown: 7.7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,117,200 / 1,236,900 / 1,356,600 / 1,476,300 / 1,596,000 Mag. Damage. Cooldown: 7.7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,596,000 / 1,795,500 / 1,995,000 / 2,194,500 / 2,394,000 Mag. Damage. Cooldown: 7.7s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30132,
         "skill_id": 70132,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Broadwave II]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">900,000 / 990,000 / 1,080,000 / 1,170,000 / 1,260,000 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,260,000 / 1,395,000 / 1,530,000 / 1,665,000 / 1,800,000 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,800,000 / 2,025,000 / 2,250,000 / 2,475,000 / 2,700,000 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30133,
         "skill_id": 70133,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Greenward II]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,200,000 / 1,320,000 / 1,440,000 / 1,560,000 / 1,680,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,680,000 / 1,860,000 / 2,040,000 / 2,220,000 / 2,400,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,400,000 / 2,700,000 / 3,000,000 / 3,300,000 / 3,600,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30134,
         "skill_id": 70134,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Sandroll II]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">600,000 / 660,000 / 720,000 / 780,000 / 840,000 Phy. Damage/s. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">840,000 / 930,000 / 1,020,000 / 1,110,000 / 1,200,000 Phy. Damage/s. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,200,000 / 1,350,000 / 1,500,000 / 1,650,000 / 1,800,000 Phy. Damage/s. Cooldown: 8.8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30135,
         "skill_id": 70135,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Thunderforge II]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,296,000 / 1,425,600 / 1,555,200 / 1,684,800 / 1,814,400 Mag. Damage. Cooldown: 14.3s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,814,400 / 2,008,800 / 2,203,200 / 2,397,600 / 2,592,000 Mag. Damage. Cooldown: 14.3s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,592,000 / 2,916,000 / 3,240,000 / 3,564,000 / 3,888,000 Mag. Damage. Cooldown: 14.3s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30136,
         "skill_id": 70136,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Frostcarver II]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,116,000 / 1,227,600 / 1,339,200 / 1,450,800 / 1,562,400 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,562,400 / 1,729,800 / 1,897,200 / 2,064,600 / 2,232,000 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,232,000 / 2,511,000 / 2,790,000 / 3,069,000 / 3,348,000 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30231,
         "skill_id": 70231,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Shadowcleaver III]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,537,640 / 2,681,280 / 2,824,920 / 2,968,560 / 2,992,500 Mag. Damage. Cooldown: 7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,172,050 / 3,351,600 / 3,531,150 / 3,710,700 / 3,746,610 Mag. Damage. Cooldown: 7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,986,010 / 4,225,410 / 4,464,810 / 4,704,210 / 4,788,000 Mag. Damage. Cooldown: 7s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30232,
         "skill_id": 70232,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Broadwave III]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,862,000 / 3,024,000 / 3,186,000 / 3,348,000 / 3,375,000 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,577,500 / 3,780,000 / 3,982,500 / 4,185,000 / 4,225,500 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,495,500 / 4,765,500 / 5,035,500 / 5,305,500 / 5,400,000 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30233,
         "skill_id": 70233,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Greenward III]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,816,000 / 4,032,000 / 4,248,000 / 4,464,000 / 4,500,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,770,000 / 5,040,000 / 5,310,000 / 5,580,000 / 5,634,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,994,000 / 6,354,000 / 6,714,000 / 7,074,000 / 7,200,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30234,
         "skill_id": 70234,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Sandroll III]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,908,000 / 2,016,000 / 2,124,000 / 2,232,000 / 2,250,000 Phy. Damage/s. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,385,000 / 2,520,000 / 2,655,000 / 2,790,000 / 2,817,000 Phy. Damage/s. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,997,000 / 3,177,000 / 3,357,000 / 3,537,000 / 3,600,000 Phy. Damage/s. Cooldown: 8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30235,
         "skill_id": 70235,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Thunderforge III]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,121,280 / 4,354,560 / 4,587,840 / 4,821,120 / 4,860,000 Mag. Damage. Cooldown: 13s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,151,600 / 5,443,200 / 5,734,800 / 6,026,400 / 6,084,720 Mag. Damage. Cooldown: 13s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">6,473,520 / 6,862,320 / 7,251,120 / 7,639,920 / 7,776,000 Mag. Damage. Cooldown: 13s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30236,
         "skill_id": 70236,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Frostcarver III]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,548,880 / 3,749,760 / 3,950,640 / 4,151,520 / 4,185,000 Phy. Damage. Cooldown: 10s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,436,100 / 4,687,200 / 4,938,300 / 5,189,400 / 5,239,620 Phy. Damage. Cooldown: 10s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,574,420 / 5,909,220 / 6,244,020 / 6,578,820 / 6,696,000 Phy. Damage. Cooldown: 10s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30331,
         "skill_id": 70331,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Shadowcleaver IV]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,075,280 / 5,362,560 / 5,649,840 / 5,937,120 / 5,985,000 Mag. Damage. Cooldown: 6.3s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">6,344,100 / 6,703,200 / 7,062,300 / 7,421,400 / 7,493,220 Mag. Damage. Cooldown: 6.3s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,972,020 / 8,450,820 / 8,929,620 / 9,408,420 / 9,576,000 Mag. Damage. Cooldown: 6.3s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30332,
         "skill_id": 70332,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Broadwave IV]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,724,000 / 6,048,000 / 6,372,000 / 6,696,000 / 6,750,000 Phy. Damage. Cooldown: 8.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,155,000 / 7,560,000 / 7,965,000 / 8,370,000 / 8,451,000 Phy. Damage. Cooldown: 8.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,991,000 / 9,531,000 / 10,071,000 / 10,611,000 / 10,800,000 Phy. Damage. Cooldown: 8.1s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30333,
         "skill_id": 70333,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Greenward IV]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,632,000 / 8,064,000 / 8,496,000 / 8,928,000 / 9,000,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">9,540,000 / 10,080,000 / 10,620,000 / 11,160,000 / 11,268,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">11,988,000 / 12,708,000 / 13,428,000 / 14,148,000 / 14,400,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30334,
         "skill_id": 70334,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Sandroll IV]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,816,000 / 4,032,000 / 4,248,000 / 4,464,000 / 4,500,000 Phy. Damage/s. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,770,000 / 5,040,000 / 5,310,000 / 5,580,000 / 5,634,000 Phy. Damage/s. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,994,000 / 6,354,000 / 6,714,000 / 7,074,000 / 7,200,000 Phy. Damage/s. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30335,
         "skill_id": 70335,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Thunderforge IV]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,242,560 / 8,709,120 / 9,175,680 / 9,642,240 / 9,720,000 Mag. Damage. Cooldown: 11.7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,303,200 / 10,886,400 / 11,469,600 / 12,052,800 / 12,169,440 Mag. Damage. Cooldown: 11.7s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,947,040 / 13,724,640 / 14,502,240 / 15,279,840 / 15,552,000 Mag. Damage. Cooldown: 11.7s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30336,
         "skill_id": 70336,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Frostcarver IV]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,097,760 / 7,499,520 / 7,901,280 / 8,303,040 / 8,370,000 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,872,200 / 9,374,400 / 9,876,600 / 10,378,800 / 10,479,240 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">11,148,840 / 11,818,440 / 12,488,040 / 13,157,640 / 13,392,000 Phy. Damage. Cooldown: 9s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30431,
         "skill_id": 70431,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Shadowcleaver V]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">9,576,000 / 9,959,040 / 10,342,080 / 10,725,120 / 11,108,160 Mag. Damage. Cooldown: 5.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">11,108,160 / 11,491,200 / 11,874,240 / 12,257,280 / 12,640,320 Mag. Damage. Cooldown: 5.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,640,320 / 13,023,360 / 13,406,400 / 14,172,480 / 14,364,000 Mag. Damage. Cooldown: 5.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30432,
         "skill_id": 70432,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Broadwave V]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,800,000 / 11,232,000 / 11,664,000 / 12,096,000 / 12,528,000 Phy. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,528,000 / 12,960,000 / 13,392,000 / 13,824,000 / 14,256,000 Phy. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,256,000 / 14,688,000 / 15,120,000 / 15,984,000 / 16,200,000 Phy. Damage. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30433,
         "skill_id": 70433,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Greenward V]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,400,000 / 14,976,000 / 15,552,000 / 16,128,000 / 16,704,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,704,000 / 17,280,000 / 17,856,000 / 18,432,000 / 19,008,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">19,008,000 / 19,584,000 / 20,160,000 / 21,312,000 / 21,600,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30434,
         "skill_id": 70434,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Sandroll V]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,200,000 / 7,488,000 / 7,776,000 / 8,064,000 / 8,352,000 Phy. Damage/s. Cooldown: 6.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,352,000 / 8,640,000 / 8,928,000 / 9,216,000 / 9,504,000 Phy. Damage/s. Cooldown: 6.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">9,504,000 / 9,792,000 / 10,080,000 / 10,656,000 / 10,800,000 Phy. Damage/s. Cooldown: 6.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30435,
         "skill_id": 70435,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Thunderforge V]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">15,552,000 / 16,174,080 / 16,796,160 / 17,418,240 / 18,040,320 Mag. Damage. Cooldown: 10.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">18,040,320 / 18,662,400 / 19,284,480 / 19,906,560 / 20,528,640 Mag. Damage. Cooldown: 10.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">20,528,640 / 21,150,720 / 21,772,800 / 23,016,960 / 23,328,000 Mag. Damage. Cooldown: 10.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30436,
         "skill_id": 70436,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Frostcarver V]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">13,392,000 / 13,927,680 / 14,463,360 / 14,999,040 / 15,534,720 Phy. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">15,534,720 / 16,070,400 / 16,606,080 / 17,141,760 / 17,677,440 Phy. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">17,677,440 / 18,213,120 / 18,748,800 / 19,820,160 / 20,088,000 Phy. Damage. Cooldown: 8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30531,
         "skill_id": 70531,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Shadowcleaver X]</FONT></div>\n        <div class=\"orb-detail\">Opens a Rift of dark energy in a frontal attack.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,364,000 / 15,082,200 / 15,800,400 / 16,518,600 / 17,236,800 Mag. Damage. Cooldown: 5.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30532,
         "skill_id": 70532,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Broadwave X]</FONT></div>\n        <div class=\"orb-detail\">Sends a wide tide forward, inflicting Damage.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,200,000 / 17,010,000 / 17,820,000 / 18,630,000 / 19,440,000 Phy. Damage. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30533,
         "skill_id": 70533,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Greenward X]</FONT></div>\n        <div class=\"orb-detail\">Cultivates the land to invigorate the Tree's HP.\nReduces the target's Damage and heals you at the same time.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">21,600,000 / 22,680,000 / 23,760,000 / 24,840,000 / 25,920,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30534,
         "skill_id": 70534,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Sandroll X]</FONT></div>\n        <div class=\"orb-detail\">Rolls up hot, dry sand and pushes it toward the target.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,800,000 / 11,340,000 / 11,880,000 / 12,420,000 / 12,960,000 Phy. Damage/s. Cooldown: 6.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30535,
         "skill_id": 70535,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Thunderforge X]</FONT></div>\n        <div class=\"orb-detail\">Gathers lightning and unleashes it within the area.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">23,328,000 / 24,494,400 / 25,660,800 / 26,827,200 / 27,993,600 Mag. Damage. Cooldown: 10.4s.</span>\n        </div>\n        </div>"
+        "resonance": ""
       },
       {
         "primary_key": 30536,
         "skill_id": 70536,
         "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Frostcarver X]</FONT></div>\n        <div class=\"orb-detail\">Summons a bird imbued with frost energy to hunt foes.</div>\n        ",
-        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">20,088,000 / 21,092,400 / 22,096,800 / 23,101,200 / 24,105,600 Phy. Damage. Cooldown: 8s.</span>\n        </div>\n        </div>"
+        "resonance": ""
+      }
+    ],
+    "Season 4": [
+      {
+        "primary_key": 40041,
+        "skill_id": 70041,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Fox Fire I]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">300,000 / 330,000 / 360,000 / 390,000 / 420,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">420,000 / 465,000 / 510,000 / 555,000 / 600,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">600,000 / 675,000 / 750,000 / 825,000 / 900,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40042,
+        "skill_id": 70042,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Extermination I]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">550,000 / 605,000 / 660,000 / 715,000 / 770,000 Mag. Damage. Cooldown: 18s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">770,000 / 852,500 / 935,000 / 1,017,500 / 1,100,000 Mag. Damage. Cooldown: 18s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,100,000 / 1,237,500 / 1,375,000 / 1,512,500 / 1,650,000 Mag. Damage. Cooldown: 18s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40043,
+        "skill_id": 70043,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Thunder Charge I]</FONT></div>\n        <div class=\"orb-detail\">Gathers the energy of thunder to attack the target.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">340,000 / 374,000 / 408,000 / 442,000 / 476,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">476,000 / 527,000 / 578,000 / 629,000 / 680,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">680,000 / 765,000 / 850,000 / 935,000 / 1,020,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40044,
+        "skill_id": 70044,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Starlight Barrage I]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">300,000 / 330,000 / 360,000 / 390,000 / 420,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">420,000 / 465,000 / 510,000 / 555,000 / 600,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">600,000 / 675,000 / 750,000 / 825,000 / 900,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40045,
+        "skill_id": 70045,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Bladesong I]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">420,000 / 462,000 / 504,000 / 546,000 / 588,000 Phy. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">588,000 / 651,000 / 714,000 / 777,000 / 840,000 Phy. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">840,000 / 945,000 / 1,050,000 / 1,155,000 / 1,260,000 Phy. Damage. Cooldown: 13.2s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40046,
+        "skill_id": 70046,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#91FE02'>[Sunlight Fragrance I]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">420,000 / 462,000 / 504,000 / 546,000 / 588,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">588,000 / 651,000 / 714,000 / 777,000 / 840,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Bronze I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">840,000 / 945,000 / 1,050,000 / 1,155,000 / 1,260,000 Mag. Damage. Cooldown: 14.4s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40141,
+        "skill_id": 70141,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Fox Fire II]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">900,000 / 990,000 / 1,080,000 / 1,170,000 / 1,260,000 Mag. Damage. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,260,000 / 1,395,000 / 1,530,000 / 1,665,000 / 1,800,000 Mag. Damage. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,800,000 / 2,025,000 / 2,250,000 / 2,475,000 / 2,700,000 Mag. Damage. Cooldown: 8.8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40142,
+        "skill_id": 70142,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Extermination II]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,650,000 / 1,815,000 / 1,980,000 / 2,145,000 / 2,310,000 Mag. Damage. Cooldown: 16.5s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,310,000 / 2,557,500 / 2,805,000 / 3,052,500 / 3,300,000 Mag. Damage. Cooldown: 16.5s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,300,000 / 3,712,500 / 4,125,000 / 4,537,500 / 4,950,000 Mag. Damage. Cooldown: 16.5s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40143,
+        "skill_id": 70143,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Thunder Charge II]</FONT></div>\n        <div class=\"orb-detail\">Gathers the energy of thunder to attack the target.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,020,000 / 1,122,000 / 1,224,000 / 1,326,000 / 1,428,000 Mag. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,428,000 / 1,581,000 / 1,734,000 / 1,887,000 / 2,040,000 Mag. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,040,000 / 2,295,000 / 2,550,000 / 2,805,000 / 3,060,000 Mag. Damage. Cooldown: 11s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40144,
+        "skill_id": 70144,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Starlight Barrage II]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">900,000 / 990,000 / 1,080,000 / 1,170,000 / 1,260,000 Mag. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,260,000 / 1,395,000 / 1,530,000 / 1,665,000 / 1,800,000 Mag. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,800,000 / 2,025,000 / 2,250,000 / 2,475,000 / 2,700,000 Mag. Damage. Cooldown: 9.9s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40145,
+        "skill_id": 70145,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Bladesong II]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,260,000 / 1,386,000 / 1,512,000 / 1,638,000 / 1,764,000 Phy. Damage. Cooldown: 12.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,764,000 / 1,953,000 / 2,142,000 / 2,331,000 / 2,520,000 Phy. Damage. Cooldown: 12.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,520,000 / 2,835,000 / 3,150,000 / 3,465,000 / 3,780,000 Phy. Damage. Cooldown: 12.1s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40146,
+        "skill_id": 70146,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#00B5FF'>[Sunlight Fragrance II]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,260,000 / 1,386,000 / 1,512,000 / 1,638,000 / 1,764,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">1,764,000 / 1,953,000 / 2,142,000 / 2,331,000 / 2,520,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Silver I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,520,000 / 2,835,000 / 3,150,000 / 3,465,000 / 3,780,000 Mag. Damage. Cooldown: 13.2s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40241,
+        "skill_id": 70241,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Fox Fire III]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,862,000 / 3,024,000 / 3,186,000 / 3,348,000 / 3,375,000 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,577,500 / 3,780,000 / 3,982,500 / 4,185,000 / 4,225,500 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,495,500 / 4,765,500 / 5,035,500 / 5,305,500 / 5,400,000 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40242,
+        "skill_id": 70242,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Extermination III]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,247,000 / 5,544,000 / 5,841,000 / 6,138,000 / 6,187,500 Mag. Damage. Cooldown: 15s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">6,558,750 / 6,930,000 / 7,301,250 / 7,672,500 / 7,746,750 Mag. Damage. Cooldown: 15s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,241,750 / 8,736,750 / 9,231,750 / 9,726,750 / 9,900,000 Mag. Damage. Cooldown: 15s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40243,
+        "skill_id": 70243,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Thunder Charge III]</FONT></div>\n        <div class=\"orb-detail\">Gathers the energy of thunder to attack the target.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,243,600 / 3,427,200 / 3,610,800 / 3,794,400 / 3,825,000 Mag. Damage. Cooldown: 10s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,054,500 / 4,284,000 / 4,513,500 / 4,743,000 / 4,788,900 Mag. Damage. Cooldown: 10s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,094,900 / 5,400,900 / 5,706,900 / 6,012,900 / 6,120,000 Mag. Damage. Cooldown: 10s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40244,
+        "skill_id": 70244,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Starlight Barrage III]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">2,862,000 / 3,024,000 / 3,186,000 / 3,348,000 / 3,375,000 Mag. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">3,577,500 / 3,780,000 / 3,982,500 / 4,185,000 / 4,225,500 Mag. Damage. Cooldown: 9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,495,500 / 4,765,500 / 5,035,500 / 5,305,500 / 5,400,000 Mag. Damage. Cooldown: 9s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40245,
+        "skill_id": 70245,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Bladesong III]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,006,800 / 4,233,600 / 4,460,400 / 4,687,200 / 4,725,000 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,008,500 / 5,292,000 / 5,575,500 / 5,859,000 / 5,915,700 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">6,293,700 / 6,671,700 / 7,049,700 / 7,427,700 / 7,560,000 Phy. Damage. Cooldown: 11s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40246,
+        "skill_id": 70246,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Sunlight Fragrance III]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">4,006,800 / 4,233,600 / 4,460,400 / 4,687,200 / 4,725,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,008,500 / 5,292,000 / 5,575,500 / 5,859,000 / 5,915,700 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Gold I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">6,293,700 / 6,671,700 / 7,049,700 / 7,427,700 / 7,560,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40341,
+        "skill_id": 70341,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Fox Fire IV]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,724,000 / 6,048,000 / 6,372,000 / 6,696,000 / 6,750,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,155,000 / 7,560,000 / 7,965,000 / 8,370,000 / 8,451,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,991,000 / 9,531,000 / 10,071,000 / 10,611,000 / 10,800,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40342,
+        "skill_id": 70342,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Extermination IV]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,494,000 / 11,088,000 / 11,682,000 / 12,276,000 / 12,375,000 Mag. Damage. Cooldown: 13.5s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">13,117,500 / 13,860,000 / 14,602,500 / 15,345,000 / 15,493,500 Mag. Damage. Cooldown: 13.5s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,483,500 / 17,473,500 / 18,463,500 / 19,453,500 / 19,800,000 Mag. Damage. Cooldown: 13.5s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40343,
+        "skill_id": 70343,
+        "content": "\n        <div class=\"orb-name\">Tip.name.TrinityOrbEffect_40343</div>\n        <div class=\"orb-detail\">Tip.desc.TrinityOrbEffect_40343</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">40,343 / 40,343 / 40,343 / 40,343 / 40,343</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">40,343 / 40,343 / 40,343 / 40,343 / 40,343</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">40,343 / 40,343 / 40,343 / 40,343 / 40,343</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40344,
+        "skill_id": 70344,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Starlight Barrage IV]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">5,724,000 / 6,048,000 / 6,372,000 / 6,696,000 / 6,750,000 Mag. Damage. Cooldown: 8.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">7,155,000 / 7,560,000 / 7,965,000 / 8,370,000 / 8,451,000 Mag. Damage. Cooldown: 8.1s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,991,000 / 9,531,000 / 10,071,000 / 10,611,000 / 10,800,000 Mag. Damage. Cooldown: 8.1s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40345,
+        "skill_id": 70345,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Bladesong IV]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,013,600 / 8,467,200 / 8,920,800 / 9,374,400 / 9,450,000 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,017,000 / 10,584,000 / 11,151,000 / 11,718,000 / 11,831,400 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,587,400 / 13,343,400 / 14,099,400 / 14,855,400 / 15,120,000 Phy. Damage. Cooldown: 9.9s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40346,
+        "skill_id": 70346,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#CE43FC'>[Sunlight Fragrance IV]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">8,013,600 / 8,467,200 / 8,920,800 / 9,374,400 / 9,450,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,017,000 / 10,584,000 / 11,151,000 / 11,718,000 / 11,831,400 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Platinum I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,587,400 / 13,343,400 / 14,099,400 / 14,855,400 / 15,120,000 Mag. Damage. Cooldown: 10.8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40441,
+        "skill_id": 70441,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Fox Fire V]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,800,000 / 11,232,000 / 11,664,000 / 12,096,000 / 12,528,000 Mag. Damage. Cooldown: 6.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,528,000 / 12,960,000 / 13,392,000 / 13,824,000 / 14,256,000 Mag. Damage. Cooldown: 6.4s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,256,000 / 14,688,000 / 15,120,000 / 15,984,000 / 16,200,000 Mag. Damage. Cooldown: 6.4s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40442,
+        "skill_id": 70442,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Extinction V]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">19,800,000 / 20,592,000 / 21,384,000 / 22,176,000 / 22,968,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">22,968,000 / 23,760,000 / 24,552,000 / 25,344,000 / 26,136,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">26,136,000 / 26,928,000 / 27,720,000 / 29,304,000 / 29,700,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40443,
+        "skill_id": 70443,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Thunder Charge V]</FONT></div>\n        <div class=\"orb-detail\">Gathers the energy of thunder to attack the target.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,240,000 / 12,729,600 / 13,219,200 / 13,708,800 / 14,198,400 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,198,400 / 14,688,000 / 15,177,600 / 15,667,200 / 16,156,800 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,156,800 / 16,646,400 / 17,136,000 / 18,115,200 / 18,360,000 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40444,
+        "skill_id": 70444,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Starlight Barrage V]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">10,800,000 / 11,232,000 / 11,664,000 / 12,096,000 / 12,528,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">12,528,000 / 12,960,000 / 13,392,000 / 13,824,000 / 14,256,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">14,256,000 / 14,688,000 / 15,120,000 / 15,984,000 / 16,200,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40445,
+        "skill_id": 70445,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Bladesong V]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">15,120,000 / 15,724,800 / 16,329,600 / 16,934,400 / 17,539,200 Phy. Damage. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">17,539,200 / 18,144,000 / 18,748,800 / 19,353,600 / 19,958,400 Phy. Damage. Cooldown: 8.8s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">19,958,400 / 20,563,200 / 21,168,000 / 22,377,600 / 22,680,000 Phy. Damage. Cooldown: 8.8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40446,
+        "skill_id": 70446,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Sunlight Fragrance V]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond III</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">15,120,000 / 15,724,800 / 16,329,600 / 16,934,400 / 17,539,200 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond II</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">17,539,200 / 18,144,000 / 18,748,800 / 19,353,600 / 19,958,400 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        \n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Diamond I</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">19,958,400 / 20,563,200 / 21,168,000 / 22,377,600 / 22,680,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40541,
+        "skill_id": 70541,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Fox Fire X]</FONT></div>\n        <div class=\"orb-detail\">Drops flames imbued with the fox's magick on foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,200,000 / 17,010,000 / 17,820,000 / 18,630,000 / 19,440,000 Mag. Damage. Cooldown: 6.4s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40542,
+        "skill_id": 70542,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Extermination X]</FONT></div>\n        <div class=\"orb-detail\">Summons an orb enhanced with the power to destroy all.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">29,700,000 / 31,185,000 / 32,670,000 / 34,155,000 / 35,640,000 Mag. Damage. Cooldown: 12s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40543,
+        "skill_id": 70543,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Thunder Charge X]</FONT></div>\n        <div class=\"orb-detail\">Gathers the energy of thunder to attack the target.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">18,360,000 / 19,278,000 / 20,196,000 / 21,114,000 / 22,032,000 Mag. Damage. Cooldown: 8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40544,
+        "skill_id": 70544,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Starlight Barrage X]</FONT></div>\n        <div class=\"orb-detail\">Summons stars around you that track nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">16,200,000 / 17,010,000 / 17,820,000 / 18,630,000 / 19,440,000 Mag. Damage. Cooldown: 7.2s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40545,
+        "skill_id": 70545,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Bladesong X]</FONT></div>\n        <div class=\"orb-detail\">Attacks foes in front with dimension-rending sword energy.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">22,680,000 / 23,814,000 / 24,948,000 / 26,082,000 / 27,216,000 Phy. Damage. Cooldown: 8.8s.</span>\n        </div>\n        </div>"
+      },
+      {
+        "primary_key": 40546,
+        "skill_id": 70546,
+        "content": "\n        <div class=\"orb-name\"><FONT COLOR='#FE9600'>[Sunlight Fragrance X]</FONT></div>\n        <div class=\"orb-detail\">Draws a magick circle imbued with the power of the sun.\nAfter a moment, it heals you and attacks nearby foes.</div>\n        ",
+        "resonance": "<div class=\"resonance-block\">\n        <div class=\"tier-line\">\n            <span class=\"tier-name\">Sidereal</span>\n            <span class=\"grade-label\">(C/B/A/S/SS)</span>\n            <span class=\"tier-values\">22,680,000 / 23,814,000 / 24,948,000 / 26,082,000 / 27,216,000 Mag. Damage. Cooldown: 9.6s.</span>\n        </div>\n        </div>"
       }
     ]
   }
